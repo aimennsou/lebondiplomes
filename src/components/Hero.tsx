@@ -45,7 +45,8 @@ Trouvez les emplois les plus demandés en France par région et par domaine.
        
       </div>
 
-</div>   </div>
+</div>
+  </div>
 
 </section>
 

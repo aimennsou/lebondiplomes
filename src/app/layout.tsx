@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Mon Emploi",
-  description: "Jeu de données de l'emploi en france",
+  title: "le bon diplome",
+  description: "Jeu de données pour vous permettre de choisir le meilleur diplome",
 };
 
 export default function RootLayout({

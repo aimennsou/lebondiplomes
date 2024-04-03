@@ -33,7 +33,7 @@ function PieChartBox(prop: Prop) {
                             data={prop.chartData}
                             innerRadius={"80%"}
                             outerRadius={"90%"}
-                            paddingAngle={5}
+                            paddingAngle={4}
                             dataKey="value"
                         >
                             {prop.chartData.map((item) => (
@@ -46,7 +46,7 @@ function PieChartBox(prop: Prop) {
             <div className="flex flex-row items-center justify-center w-full h-full flex-nowrap">
                 {prop.chartData.map((item) => (
                     <div
-                        className="flex flex-col items-center gap-4 mr-4"
+                        className="text-nowrap flex flex-col items-center gap-4 mx-6"
                         key={item.name}
                     >
                         <div className="flex items-center gap-2.5">

@@ -16,6 +16,7 @@ const BarChartBox = (props: Props) => {
             <div className="h-full">
                 <ResponsiveContainer width="99%" height="99%">
                 <BarChart
+             
           width={500}
           height={300}
           data={props.chartData}
@@ -26,10 +27,11 @@ const BarChartBox = (props: Props) => {
             bottom: 5,
           }}
         >
-          <YAxis />
+          <YAxis  tick={{ fontSize: 14, width: 250 }}   domain={[0,  '5000000000']} />
                     <XAxis dataKey="name" />
                     <Tooltip />
                         <Bar dataKey={props.dataKey} fill={props.color} />
+                        
                     </BarChart>
                 </ResponsiveContainer>
             </div>

@@ -1,5 +1,1649 @@
 [
+   {
+        "input": {
+            "region": "Toute la France",
+            "contrat": "Tous types de contrats",
+            "diplome": "Tous types de qualification"
+        },
+        "result": {
+            "region": "Toute la France",
+            "Tdiplome": {
+                "title": "Type de diplome",
+                "color": "#388E3C",
+                "dataKey": "total",
+               "chartData": [
+      {"name": "Cadre", "total": 1607130},
+      {"name": "Agent de maîtrise, technicien", "total": 4888270},
+      {"name": "Employé qualifié", "total": 17230300},
+      {"name": "Employé non qualifié", "total": 10372880},
+      {"name": "Ouvrier qualifié", "total": 4796230},
+      {"name": "Ouvrier spécialisé, manœuvre", "total": 4620820}
+    ]
+            },
+            "Tsecteur": {
+                "title": "Secteurs d'activités",
+                "color": "#388E3C",
+                "dataKey": "offres",
+               "chartData": [
+      {"name": "AGRICULTURE, SYLVICULTURE ET PÊCHE", "offres": 1061120},
+      {"name": "INDUSTRIES EXTRACTIVES", "offres": 8050},
+      {"name": "FABRICATION DE DENRÉES ALIMENTAIRES, DE BOISSONS ET DE PRODUITS À BASE DE TABAC", "offres": 911460},
+      {"name": "FABRICATION DE TEXTILES, INDUSTRIES DE L'HABILLEMENT, INDUSTRIE DU CUIR ET DE LA CHAUSSURE", "offres": 125960},
+      {"name": "TRAVAIL DU BOIS, INDUSTRIES DU PAPIER ET IMPRIMERIE", "offres": 143130},
+      {"name": "COKÉFACTION ET RAFFINAGE", "offres": 1360},
+      {"name": "INDUSTRIE CHIMIQUE", "offres": 69700},
+      {"name": "INDUSTRIE PHARMACEUTIQUE", "offres": 22390},
+      {"name": "FABRICATION DE PRODUITS EN CAOUTCHOUC ET EN PLASTIQUE AINSI QUE D'AUTRES PRODUITS MINÉRAUX NON MÉTALLIQUES", "offres": 144490},
+      {"name": "MÉTALLURGIE ET FABRICATION DE PRODUITS MÉTALLIQUES À L'EXCEPTION DES MACHINES ET DES ÉQUIPEMENTS", "offres": 282320},
+      {"name": "FABRICATION DE PRODUITS INFORMATIQUES, ÉLECTRONIQUES ET OPTIQUES", "offres": 62910},
+      {"name": "FABRICATION D'ÉQUIPEMENTS ÉLECTRIQUES", "offres": 51060},
+      {"name": "FABRICATION DE MACHINES ET ÉQUIPEMENTS N.C.A.", "offres": 128340},
+      {"name": "FABRICATION DE MATÉRIELS DE TRANSPORT", "offres": 119610},
+      {"name": "AUTRES INDUSTRIES MANUFACTURIÈRES- RÉPARATION ET INSTALLATION DE MACHINES ET D'ÉQUIPEMENTS", "offres": 289010},
+      {"name": "PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ, DE VAPEUR ET D'AIR CONDITIONNÉ", "offres": 47530},
+      {"name": "PRODUCTION ET DISTRIBUTION D'EAU- ASSAINISSEMENT, GESTION DES DÉCHETS ET DÉPOLLUTION", "offres": 158240},
+      {"name": "CONSTRUCTION", "offres": 1555810},
+      {"name": "COMMERCE- RÉPARATION D'AUTOMOBILES ET DE MOTOCYCLES", "offres": 4239890},
+      {"name": "TRANSPORTS ET ENTREPOSAGE", "offres": 1101510},
+      {"name": "HÉBERGEMENT ET RESTAURATION", "offres": 3678420},
+      {"name": "EDITION, AUDIOVISUEL ET DIFFUSION", "offres": 396910},
+      {"name": "TÉLÉCOMMUNICATIONS", "offres": 54030},
+      {"name": "ACTIVITÉS INFORMATIQUES ET SERVICES D'INFORMATION", "offres": 553410},
+      {"name": "ACTIVITÉS FINANCIÈRES ET D'ASSURANCE", "offres": 620510},
+      {"name": "ACTIVITÉS IMMOBILIÈRES", "offres": 374760},
+      {"name": "ACTIVITÉS JURIDIQUES, COMPTABLES, DE GESTION, D'ARCHITECTURE, D'INGÉNIERIE, DE CONTRÔLE ET D'ANALYSES TECHNIQUES", "offres": 2668540},
+      {"name": "RECHERCHE-DÉVELOPPEMENT SCIENTIFIQUE", "offres": 50650},
+      {"name": "AUTRES ACTIVITÉS SPÉCIALISÉES, SCIENTIFIQUES ET TECHNIQUES", "offres": 758750},
+      {"name": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN", "offres": 12494980},
+      {"name": "ADMINISTRATION PUBLIQUE", "offres": 1614760},
+      {"name": "ENSEIGNEMENT", "offres": 1999560},
+      {"name": "ACTIVITÉS POUR LA SANTÉ HUMAINE", "offres": 835170},
+      {"name": "HÉBERGEMENT MÉDICO-SOCIAL ET SOCIAL ET ACTION SOCIALE SANS HÉBERGEMENT", "offres": 4310580},
+      {"name": "ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES", "offres": 541100},
+      {"name": "AUTRES ACTIVITÉS DE SERVICES", "offres": 1895480},
+      {"name": "ACTIVITÉS DES MÉNAGES EN TANT QU'EMPLOYEURS", "offres": 140450},
+      {"name": "ACTIVITÉS EXTRA-TERRITORIALES", "offres": 2610},
+      {"name": "ACTIVITÉ INCONNUE", "offres": 1070}
+    ]
+                
+            },
+            "Tcontrat": [
+           
+                {"name": "offre non durable", "value": 21145140, "color": "#a5da0f"},
+                {"name": "Offre durable", "value": 22368570, "color": "#388E3C"}
+            ],
+            "offres": 43515630,
+            "secteur": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN",
+            "dipuniv": "Bac Pro AGORA"
+        }
+       
+    },{
+        "input": {
+            "region": "Toute la France",
+            "contrat": "Tous types de contrats",
+            "diplome": "Ouvrier spécialisé, manœuvre"
+        },
+        "result": {
+            "region": "Toute la France",
+            "Tdiplome": {
+                "title": "Type de diplome",
+                "color": "#388E3C",
+                "dataKey": "total",
+            "chartData": [
+      {"name": "Cadre", "total": 1607130},
+      {"name": "Agent de maîtrise, technicien", "total": 4888270},
+      {"name": "Employé qualifié", "total": 17230300},
+      {"name": "Employé non qualifié", "total": 10372880},
+      {"name": "Ouvrier qualifié", "total": 4796230},
+      {"name": "Ouvrier spécialisé, manœuvre", "total": 4620820}
+    ]
+            },
+            "Tsecteur": {
+                "title": "Secteurs d'activités",
+                "color": "#388E3C",
+                "dataKey": "offres",
+              "chartData": [
+      {"name": "AGRICULTURE, SYLVICULTURE ET PÊCHE", "offres": 1061120},
+      {"name": "INDUSTRIES EXTRACTIVES", "offres": 8050},
+      {"name": "FABRICATION DE DENRÉES ALIMENTAIRES, DE BOISSONS ET DE PRODUITS À BASE DE TABAC", "offres": 911460},
+      {"name": "FABRICATION DE TEXTILES, INDUSTRIES DE L'HABILLEMENT, INDUSTRIE DU CUIR ET DE LA CHAUSSURE", "offres": 125960},
+      {"name": "TRAVAIL DU BOIS, INDUSTRIES DU PAPIER ET IMPRIMERIE", "offres": 143130},
+      {"name": "COKÉFACTION ET RAFFINAGE", "offres": 1360},
+      {"name": "INDUSTRIE CHIMIQUE", "offres": 69700},
+      {"name": "INDUSTRIE PHARMACEUTIQUE", "offres": 22390},
+      {"name": "FABRICATION DE PRODUITS EN CAOUTCHOUC ET EN PLASTIQUE AINSI QUE D'AUTRES PRODUITS MINÉRAUX NON MÉTALLIQUES", "offres": 144490},
+      {"name": "MÉTALLURGIE ET FABRICATION DE PRODUITS MÉTALLIQUES À L'EXCEPTION DES MACHINES ET DES ÉQUIPEMENTS", "offres": 282320},
+      {"name": "FABRICATION DE PRODUITS INFORMATIQUES, ÉLECTRONIQUES ET OPTIQUES", "offres": 62910},
+      {"name": "FABRICATION D'ÉQUIPEMENTS ÉLECTRIQUES", "offres": 51060},
+      {"name": "FABRICATION DE MACHINES ET ÉQUIPEMENTS N.C.A.", "offres": 128340},
+      {"name": "FABRICATION DE MATÉRIELS DE TRANSPORT", "offres": 119610},
+      {"name": "AUTRES INDUSTRIES MANUFACTURIÈRES- RÉPARATION ET INSTALLATION DE MACHINES ET D'ÉQUIPEMENTS", "offres": 289010},
+      {"name": "PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ, DE VAPEUR ET D'AIR CONDITIONNÉ", "offres": 47530},
+      {"name": "PRODUCTION ET DISTRIBUTION D'EAU- ASSAINISSEMENT, GESTION DES DÉCHETS ET DÉPOLLUTION", "offres": 158240},
+      {"name": "CONSTRUCTION", "offres": 1555810},
+      {"name": "COMMERCE- RÉPARATION D'AUTOMOBILES ET DE MOTOCYCLES", "offres": 4239890},
+      {"name": "TRANSPORTS ET ENTREPOSAGE", "offres": 1101510},
+      {"name": "HÉBERGEMENT ET RESTAURATION", "offres": 3678420},
+      {"name": "EDITION, AUDIOVISUEL ET DIFFUSION", "offres": 396910},
+      {"name": "TÉLÉCOMMUNICATIONS", "offres": 54030},
+      {"name": "ACTIVITÉS INFORMATIQUES ET SERVICES D'INFORMATION", "offres": 553410},
+      {"name": "ACTIVITÉS FINANCIÈRES ET D'ASSURANCE", "offres": 620510},
+      {"name": "ACTIVITÉS IMMOBILIÈRES", "offres": 374760},
+      {"name": "ACTIVITÉS JURIDIQUES, COMPTABLES, DE GESTION, D'ARCHITECTURE, D'INGÉNIERIE, DE CONTRÔLE ET D'ANALYSES TECHNIQUES", "offres": 2668540},
+      {"name": "RECHERCHE-DÉVELOPPEMENT SCIENTIFIQUE", "offres": 50650},
+      {"name": "AUTRES ACTIVITÉS SPÉCIALISÉES, SCIENTIFIQUES ET TECHNIQUES", "offres": 758750},
+      {"name": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN", "offres": 12494980},
+      {"name": "ADMINISTRATION PUBLIQUE", "offres": 1614760},
+      {"name": "ENSEIGNEMENT", "offres": 1999560},
+      {"name": "ACTIVITÉS POUR LA SANTÉ HUMAINE", "offres": 835170},
+      {"name": "HÉBERGEMENT MÉDICO-SOCIAL ET SOCIAL ET ACTION SOCIALE SANS HÉBERGEMENT", "offres": 4310580},
+      {"name": "ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES", "offres": 541100},
+      {"name": "AUTRES ACTIVITÉS DE SERVICES", "offres": 1895480},
+      {"name": "ACTIVITÉS DES MÉNAGES EN TANT QU'EMPLOYEURS", "offres": 140450},
+      {"name": "ACTIVITÉS EXTRA-TERRITORIALES", "offres": 2610},
+      {"name": "ACTIVITÉ INCONNUE", "offres": 1070}
+    ]
+                
+            },
+            "Tcontrat": [
+           
+                {"name": "offre non durable", "value": 21145140, "color": "#a5da0f"},
+                {"name": "Offre durable", "value": 22368570, "color": "#388E3C"}
+            ],
+            "offres": 43515630,
+            "secteur": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN",
+            "dipuniv": "Bac Pro AGORA"
+        }
+       
+    },{
+        "input": {
+            "region": "Toute la France",
+            "contrat": "Tous types de contrats",
+            "diplome": "Ouvrier qualifié"
+        },
+        "result": {
+            "region": "Toute la France",
+            "Tdiplome": {
+                "title": "Type de diplome",
+                "color": "#388E3C",
+                "dataKey": "total",
+              "chartData": [
+      {"name": "Cadre", "total": 1607130},
+      {"name": "Agent de maîtrise, technicien", "total": 4888270},
+      {"name": "Employé qualifié", "total": 17230300},
+      {"name": "Employé non qualifié", "total": 10372880},
+      {"name": "Ouvrier qualifié", "total": 4796230},
+      {"name": "Ouvrier spécialisé, manœuvre", "total": 4620820}
+    ]
+            },
+            "Tsecteur": {
+                "title": "Secteurs d'activités",
+                "color": "#388E3C",
+                "dataKey": "offres",
+              "chartData": [
+      {"name": "AGRICULTURE, SYLVICULTURE ET PÊCHE", "offres": 1061120},
+      {"name": "INDUSTRIES EXTRACTIVES", "offres": 8050},
+      {"name": "FABRICATION DE DENRÉES ALIMENTAIRES, DE BOISSONS ET DE PRODUITS À BASE DE TABAC", "offres": 911460},
+      {"name": "FABRICATION DE TEXTILES, INDUSTRIES DE L'HABILLEMENT, INDUSTRIE DU CUIR ET DE LA CHAUSSURE", "offres": 125960},
+      {"name": "TRAVAIL DU BOIS, INDUSTRIES DU PAPIER ET IMPRIMERIE", "offres": 143130},
+      {"name": "COKÉFACTION ET RAFFINAGE", "offres": 1360},
+      {"name": "INDUSTRIE CHIMIQUE", "offres": 69700},
+      {"name": "INDUSTRIE PHARMACEUTIQUE", "offres": 22390},
+      {"name": "FABRICATION DE PRODUITS EN CAOUTCHOUC ET EN PLASTIQUE AINSI QUE D'AUTRES PRODUITS MINÉRAUX NON MÉTALLIQUES", "offres": 144490},
+      {"name": "MÉTALLURGIE ET FABRICATION DE PRODUITS MÉTALLIQUES À L'EXCEPTION DES MACHINES ET DES ÉQUIPEMENTS", "offres": 282320},
+      {"name": "FABRICATION DE PRODUITS INFORMATIQUES, ÉLECTRONIQUES ET OPTIQUES", "offres": 62910},
+      {"name": "FABRICATION D'ÉQUIPEMENTS ÉLECTRIQUES", "offres": 51060},
+      {"name": "FABRICATION DE MACHINES ET ÉQUIPEMENTS N.C.A.", "offres": 128340},
+      {"name": "FABRICATION DE MATÉRIELS DE TRANSPORT", "offres": 119610},
+      {"name": "AUTRES INDUSTRIES MANUFACTURIÈRES- RÉPARATION ET INSTALLATION DE MACHINES ET D'ÉQUIPEMENTS", "offres": 289010},
+      {"name": "PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ, DE VAPEUR ET D'AIR CONDITIONNÉ", "offres": 47530},
+      {"name": "PRODUCTION ET DISTRIBUTION D'EAU- ASSAINISSEMENT, GESTION DES DÉCHETS ET DÉPOLLUTION", "offres": 158240},
+      {"name": "CONSTRUCTION", "offres": 1555810},
+      {"name": "COMMERCE- RÉPARATION D'AUTOMOBILES ET DE MOTOCYCLES", "offres": 4239890},
+      {"name": "TRANSPORTS ET ENTREPOSAGE", "offres": 1101510},
+      {"name": "HÉBERGEMENT ET RESTAURATION", "offres": 3678420},
+      {"name": "EDITION, AUDIOVISUEL ET DIFFUSION", "offres": 396910},
+      {"name": "TÉLÉCOMMUNICATIONS", "offres": 54030},
+      {"name": "ACTIVITÉS INFORMATIQUES ET SERVICES D'INFORMATION", "offres": 553410},
+      {"name": "ACTIVITÉS FINANCIÈRES ET D'ASSURANCE", "offres": 620510},
+      {"name": "ACTIVITÉS IMMOBILIÈRES", "offres": 374760},
+      {"name": "ACTIVITÉS JURIDIQUES, COMPTABLES, DE GESTION, D'ARCHITECTURE, D'INGÉNIERIE, DE CONTRÔLE ET D'ANALYSES TECHNIQUES", "offres": 2668540},
+      {"name": "RECHERCHE-DÉVELOPPEMENT SCIENTIFIQUE", "offres": 50650},
+      {"name": "AUTRES ACTIVITÉS SPÉCIALISÉES, SCIENTIFIQUES ET TECHNIQUES", "offres": 758750},
+      {"name": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN", "offres": 12494980},
+      {"name": "ADMINISTRATION PUBLIQUE", "offres": 1614760},
+      {"name": "ENSEIGNEMENT", "offres": 1999560},
+      {"name": "ACTIVITÉS POUR LA SANTÉ HUMAINE", "offres": 835170},
+      {"name": "HÉBERGEMENT MÉDICO-SOCIAL ET SOCIAL ET ACTION SOCIALE SANS HÉBERGEMENT", "offres": 4310580},
+      {"name": "ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES", "offres": 541100},
+      {"name": "AUTRES ACTIVITÉS DE SERVICES", "offres": 1895480},
+      {"name": "ACTIVITÉS DES MÉNAGES EN TANT QU'EMPLOYEURS", "offres": 140450},
+      {"name": "ACTIVITÉS EXTRA-TERRITORIALES", "offres": 2610},
+      {"name": "ACTIVITÉ INCONNUE", "offres": 1070}
+    ]
+                
+            },
+            "Tcontrat": [
+           
+                {"name": "offre non durable", "value": 21145140, "color": "#a5da0f"},
+                {"name": "Offre durable", "value": 22368570, "color": "#388E3C"}
+            ],
+            "offres": 43515630,
+            "secteur": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN",
+            "dipuniv": "Bac Pro AGORA"
+        }
+       
+    },{
+        "input": {
+            "region": "Toute la France",
+            "contrat": "Tous types de contrats",
+            "diplome": "Employé non qualifié"
+        },
+        "result": {
+            "region": "Toute la France",
+            "Tdiplome": {
+                "title": "Type de diplome",
+                "color": "#388E3C",
+                "dataKey": "total",
+               "chartData": [
+      {"name": "Cadre", "total": 1607130},
+      {"name": "Agent de maîtrise, technicien", "total": 4888270},
+      {"name": "Employé qualifié", "total": 17230300},
+      {"name": "Employé non qualifié", "total": 10372880},
+      {"name": "Ouvrier qualifié", "total": 4796230},
+      {"name": "Ouvrier spécialisé, manœuvre", "total": 4620820}
+    ]
+            },
+            "Tsecteur": {
+                "title": "Secteurs d'activités",
+                "color": "#388E3C",
+                "dataKey": "offres",
+              "chartData": [
+      {"name": "AGRICULTURE, SYLVICULTURE ET PÊCHE", "offres": 1061120},
+      {"name": "INDUSTRIES EXTRACTIVES", "offres": 8050},
+      {"name": "FABRICATION DE DENRÉES ALIMENTAIRES, DE BOISSONS ET DE PRODUITS À BASE DE TABAC", "offres": 911460},
+      {"name": "FABRICATION DE TEXTILES, INDUSTRIES DE L'HABILLEMENT, INDUSTRIE DU CUIR ET DE LA CHAUSSURE", "offres": 125960},
+      {"name": "TRAVAIL DU BOIS, INDUSTRIES DU PAPIER ET IMPRIMERIE", "offres": 143130},
+      {"name": "COKÉFACTION ET RAFFINAGE", "offres": 1360},
+      {"name": "INDUSTRIE CHIMIQUE", "offres": 69700},
+      {"name": "INDUSTRIE PHARMACEUTIQUE", "offres": 22390},
+      {"name": "FABRICATION DE PRODUITS EN CAOUTCHOUC ET EN PLASTIQUE AINSI QUE D'AUTRES PRODUITS MINÉRAUX NON MÉTALLIQUES", "offres": 144490},
+      {"name": "MÉTALLURGIE ET FABRICATION DE PRODUITS MÉTALLIQUES À L'EXCEPTION DES MACHINES ET DES ÉQUIPEMENTS", "offres": 282320},
+      {"name": "FABRICATION DE PRODUITS INFORMATIQUES, ÉLECTRONIQUES ET OPTIQUES", "offres": 62910},
+      {"name": "FABRICATION D'ÉQUIPEMENTS ÉLECTRIQUES", "offres": 51060},
+      {"name": "FABRICATION DE MACHINES ET ÉQUIPEMENTS N.C.A.", "offres": 128340},
+      {"name": "FABRICATION DE MATÉRIELS DE TRANSPORT", "offres": 119610},
+      {"name": "AUTRES INDUSTRIES MANUFACTURIÈRES- RÉPARATION ET INSTALLATION DE MACHINES ET D'ÉQUIPEMENTS", "offres": 289010},
+      {"name": "PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ, DE VAPEUR ET D'AIR CONDITIONNÉ", "offres": 47530},
+      {"name": "PRODUCTION ET DISTRIBUTION D'EAU- ASSAINISSEMENT, GESTION DES DÉCHETS ET DÉPOLLUTION", "offres": 158240},
+      {"name": "CONSTRUCTION", "offres": 1555810},
+      {"name": "COMMERCE- RÉPARATION D'AUTOMOBILES ET DE MOTOCYCLES", "offres": 4239890},
+      {"name": "TRANSPORTS ET ENTREPOSAGE", "offres": 1101510},
+      {"name": "HÉBERGEMENT ET RESTAURATION", "offres": 3678420},
+      {"name": "EDITION, AUDIOVISUEL ET DIFFUSION", "offres": 396910},
+      {"name": "TÉLÉCOMMUNICATIONS", "offres": 54030},
+      {"name": "ACTIVITÉS INFORMATIQUES ET SERVICES D'INFORMATION", "offres": 553410},
+      {"name": "ACTIVITÉS FINANCIÈRES ET D'ASSURANCE", "offres": 620510},
+      {"name": "ACTIVITÉS IMMOBILIÈRES", "offres": 374760},
+      {"name": "ACTIVITÉS JURIDIQUES, COMPTABLES, DE GESTION, D'ARCHITECTURE, D'INGÉNIERIE, DE CONTRÔLE ET D'ANALYSES TECHNIQUES", "offres": 2668540},
+      {"name": "RECHERCHE-DÉVELOPPEMENT SCIENTIFIQUE", "offres": 50650},
+      {"name": "AUTRES ACTIVITÉS SPÉCIALISÉES, SCIENTIFIQUES ET TECHNIQUES", "offres": 758750},
+      {"name": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN", "offres": 12494980},
+      {"name": "ADMINISTRATION PUBLIQUE", "offres": 1614760},
+      {"name": "ENSEIGNEMENT", "offres": 1999560},
+      {"name": "ACTIVITÉS POUR LA SANTÉ HUMAINE", "offres": 835170},
+      {"name": "HÉBERGEMENT MÉDICO-SOCIAL ET SOCIAL ET ACTION SOCIALE SANS HÉBERGEMENT", "offres": 4310580},
+      {"name": "ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES", "offres": 541100},
+      {"name": "AUTRES ACTIVITÉS DE SERVICES", "offres": 1895480},
+      {"name": "ACTIVITÉS DES MÉNAGES EN TANT QU'EMPLOYEURS", "offres": 140450},
+      {"name": "ACTIVITÉS EXTRA-TERRITORIALES", "offres": 2610},
+      {"name": "ACTIVITÉ INCONNUE", "offres": 1070}
+    ]
+                
+            },
+            "Tcontrat": [
+           
+                {"name": "offre non durable", "value": 21145140, "color": "#a5da0f"},
+                {"name": "Offre durable", "value": 22368570, "color": "#388E3C"}
+            ],
+            "offres": 43515630,
+            "secteur": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN",
+            "dipuniv": "BAC Pro AGORA "
+        }
+       
+    },{
+        "input": {
+            "region": "Toute la France",
+            "contrat": "Tous types de contrats",
+            "diplome": "Employé qualifié"
+        },
+        "result": {
+            "region": "Toute la France",
+            "Tdiplome": {
+                "title": "Type de diplome",
+                "color": "#388E3C",
+                "dataKey": "total",
+               "chartData": [
+      {"name": "Cadre", "total": 1607130},
+      {"name": "Agent de maîtrise, technicien", "total": 4888270},
+      {"name": "Employé qualifié", "total": 17230300},
+      {"name": "Employé non qualifié", "total": 10372880},
+      {"name": "Ouvrier qualifié", "total": 4796230},
+      {"name": "Ouvrier spécialisé, manœuvre", "total": 4620820}
+    ]
+            },
+            "Tsecteur": {
+                "title": "Secteurs d'activités",
+                "color": "#388E3C",
+                "dataKey": "offres",
+             "chartData": [
+      {"name": "AGRICULTURE, SYLVICULTURE ET PÊCHE", "offres": 1061120},
+      {"name": "INDUSTRIES EXTRACTIVES", "offres": 8050},
+      {"name": "FABRICATION DE DENRÉES ALIMENTAIRES, DE BOISSONS ET DE PRODUITS À BASE DE TABAC", "offres": 911460},
+      {"name": "FABRICATION DE TEXTILES, INDUSTRIES DE L'HABILLEMENT, INDUSTRIE DU CUIR ET DE LA CHAUSSURE", "offres": 125960},
+      {"name": "TRAVAIL DU BOIS, INDUSTRIES DU PAPIER ET IMPRIMERIE", "offres": 143130},
+      {"name": "COKÉFACTION ET RAFFINAGE", "offres": 1360},
+      {"name": "INDUSTRIE CHIMIQUE", "offres": 69700},
+      {"name": "INDUSTRIE PHARMACEUTIQUE", "offres": 22390},
+      {"name": "FABRICATION DE PRODUITS EN CAOUTCHOUC ET EN PLASTIQUE AINSI QUE D'AUTRES PRODUITS MINÉRAUX NON MÉTALLIQUES", "offres": 144490},
+      {"name": "MÉTALLURGIE ET FABRICATION DE PRODUITS MÉTALLIQUES À L'EXCEPTION DES MACHINES ET DES ÉQUIPEMENTS", "offres": 282320},
+      {"name": "FABRICATION DE PRODUITS INFORMATIQUES, ÉLECTRONIQUES ET OPTIQUES", "offres": 62910},
+      {"name": "FABRICATION D'ÉQUIPEMENTS ÉLECTRIQUES", "offres": 51060},
+      {"name": "FABRICATION DE MACHINES ET ÉQUIPEMENTS N.C.A.", "offres": 128340},
+      {"name": "FABRICATION DE MATÉRIELS DE TRANSPORT", "offres": 119610},
+      {"name": "AUTRES INDUSTRIES MANUFACTURIÈRES- RÉPARATION ET INSTALLATION DE MACHINES ET D'ÉQUIPEMENTS", "offres": 289010},
+      {"name": "PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ, DE VAPEUR ET D'AIR CONDITIONNÉ", "offres": 47530},
+      {"name": "PRODUCTION ET DISTRIBUTION D'EAU- ASSAINISSEMENT, GESTION DES DÉCHETS ET DÉPOLLUTION", "offres": 158240},
+      {"name": "CONSTRUCTION", "offres": 1555810},
+      {"name": "COMMERCE- RÉPARATION D'AUTOMOBILES ET DE MOTOCYCLES", "offres": 4239890},
+      {"name": "TRANSPORTS ET ENTREPOSAGE", "offres": 1101510},
+      {"name": "HÉBERGEMENT ET RESTAURATION", "offres": 3678420},
+      {"name": "EDITION, AUDIOVISUEL ET DIFFUSION", "offres": 396910},
+      {"name": "TÉLÉCOMMUNICATIONS", "offres": 54030},
+      {"name": "ACTIVITÉS INFORMATIQUES ET SERVICES D'INFORMATION", "offres": 553410},
+      {"name": "ACTIVITÉS FINANCIÈRES ET D'ASSURANCE", "offres": 620510},
+      {"name": "ACTIVITÉS IMMOBILIÈRES", "offres": 374760},
+      {"name": "ACTIVITÉS JURIDIQUES, COMPTABLES, DE GESTION, D'ARCHITECTURE, D'INGÉNIERIE, DE CONTRÔLE ET D'ANALYSES TECHNIQUES", "offres": 2668540},
+      {"name": "RECHERCHE-DÉVELOPPEMENT SCIENTIFIQUE", "offres": 50650},
+      {"name": "AUTRES ACTIVITÉS SPÉCIALISÉES, SCIENTIFIQUES ET TECHNIQUES", "offres": 758750},
+      {"name": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN", "offres": 12494980},
+      {"name": "ADMINISTRATION PUBLIQUE", "offres": 1614760},
+      {"name": "ENSEIGNEMENT", "offres": 1999560},
+      {"name": "ACTIVITÉS POUR LA SANTÉ HUMAINE", "offres": 835170},
+      {"name": "HÉBERGEMENT MÉDICO-SOCIAL ET SOCIAL ET ACTION SOCIALE SANS HÉBERGEMENT", "offres": 4310580},
+      {"name": "ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES", "offres": 541100},
+      {"name": "AUTRES ACTIVITÉS DE SERVICES", "offres": 1895480},
+      {"name": "ACTIVITÉS DES MÉNAGES EN TANT QU'EMPLOYEURS", "offres": 140450},
+      {"name": "ACTIVITÉS EXTRA-TERRITORIALES", "offres": 2610},
+      {"name": "ACTIVITÉ INCONNUE", "offres": 1070}
+    ]
+                
+            },
+            "Tcontrat": [
+           
+                {"name": "offre non durable", "value": 21145140, "color": "#a5da0f"},
+                {"name": "Offre durable", "value": 22368570, "color": "#388E3C"}
+            ],
+            "offres": 43515630,
+            "secteur": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN",
+            "dipuniv": "BEP Métiers des services administratifs"
+        }
+       
+    },{
+        "input": {
+            "region": "Toute la France",
+            "contrat": "Tous types de contrats",
+            "diplome": "Agent de maîtrise, technicien"
+        },
+        "result": {
+            "region": "Toute la France",
+            "Tdiplome": {
+                "title": "Type de diplome",
+                "color": "#388E3C",
+                "dataKey": "total",
+                "chartData": [
+      {"name": "Cadre", "total": 1607130},
+      {"name": "Agent de maîtrise, technicien", "total": 4888270},
+      {"name": "Employé qualifié", "total": 17230300},
+      {"name": "Employé non qualifié", "total": 10372880},
+      {"name": "Ouvrier qualifié", "total": 4796230},
+      {"name": "Ouvrier spécialisé, manœuvre", "total": 4620820}
+    ]
+            },
+            "Tsecteur": {
+                "title": "Secteurs d'activités",
+                "color": "#388E3C",
+                "dataKey": "offres",
+             "chartData": [
+      {"name": "AGRICULTURE, SYLVICULTURE ET PÊCHE", "offres": 1061120},
+      {"name": "INDUSTRIES EXTRACTIVES", "offres": 8050},
+      {"name": "FABRICATION DE DENRÉES ALIMENTAIRES, DE BOISSONS ET DE PRODUITS À BASE DE TABAC", "offres": 911460},
+      {"name": "FABRICATION DE TEXTILES, INDUSTRIES DE L'HABILLEMENT, INDUSTRIE DU CUIR ET DE LA CHAUSSURE", "offres": 125960},
+      {"name": "TRAVAIL DU BOIS, INDUSTRIES DU PAPIER ET IMPRIMERIE", "offres": 143130},
+      {"name": "COKÉFACTION ET RAFFINAGE", "offres": 1360},
+      {"name": "INDUSTRIE CHIMIQUE", "offres": 69700},
+      {"name": "INDUSTRIE PHARMACEUTIQUE", "offres": 22390},
+      {"name": "FABRICATION DE PRODUITS EN CAOUTCHOUC ET EN PLASTIQUE AINSI QUE D'AUTRES PRODUITS MINÉRAUX NON MÉTALLIQUES", "offres": 144490},
+      {"name": "MÉTALLURGIE ET FABRICATION DE PRODUITS MÉTALLIQUES À L'EXCEPTION DES MACHINES ET DES ÉQUIPEMENTS", "offres": 282320},
+      {"name": "FABRICATION DE PRODUITS INFORMATIQUES, ÉLECTRONIQUES ET OPTIQUES", "offres": 62910},
+      {"name": "FABRICATION D'ÉQUIPEMENTS ÉLECTRIQUES", "offres": 51060},
+      {"name": "FABRICATION DE MACHINES ET ÉQUIPEMENTS N.C.A.", "offres": 128340},
+      {"name": "FABRICATION DE MATÉRIELS DE TRANSPORT", "offres": 119610},
+      {"name": "AUTRES INDUSTRIES MANUFACTURIÈRES- RÉPARATION ET INSTALLATION DE MACHINES ET D'ÉQUIPEMENTS", "offres": 289010},
+      {"name": "PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ, DE VAPEUR ET D'AIR CONDITIONNÉ", "offres": 47530},
+      {"name": "PRODUCTION ET DISTRIBUTION D'EAU- ASSAINISSEMENT, GESTION DES DÉCHETS ET DÉPOLLUTION", "offres": 158240},
+      {"name": "CONSTRUCTION", "offres": 1555810},
+      {"name": "COMMERCE- RÉPARATION D'AUTOMOBILES ET DE MOTOCYCLES", "offres": 4239890},
+      {"name": "TRANSPORTS ET ENTREPOSAGE", "offres": 1101510},
+      {"name": "HÉBERGEMENT ET RESTAURATION", "offres": 3678420},
+      {"name": "EDITION, AUDIOVISUEL ET DIFFUSION", "offres": 396910},
+      {"name": "TÉLÉCOMMUNICATIONS", "offres": 54030},
+      {"name": "ACTIVITÉS INFORMATIQUES ET SERVICES D'INFORMATION", "offres": 553410},
+      {"name": "ACTIVITÉS FINANCIÈRES ET D'ASSURANCE", "offres": 620510},
+      {"name": "ACTIVITÉS IMMOBILIÈRES", "offres": 374760},
+      {"name": "ACTIVITÉS JURIDIQUES, COMPTABLES, DE GESTION, D'ARCHITECTURE, D'INGÉNIERIE, DE CONTRÔLE ET D'ANALYSES TECHNIQUES", "offres": 2668540},
+      {"name": "RECHERCHE-DÉVELOPPEMENT SCIENTIFIQUE", "offres": 50650},
+      {"name": "AUTRES ACTIVITÉS SPÉCIALISÉES, SCIENTIFIQUES ET TECHNIQUES", "offres": 758750},
+      {"name": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN", "offres": 12494980},
+      {"name": "ADMINISTRATION PUBLIQUE", "offres": 1614760},
+      {"name": "ENSEIGNEMENT", "offres": 1999560},
+      {"name": "ACTIVITÉS POUR LA SANTÉ HUMAINE", "offres": 835170},
+      {"name": "HÉBERGEMENT MÉDICO-SOCIAL ET SOCIAL ET ACTION SOCIALE SANS HÉBERGEMENT", "offres": 4310580},
+      {"name": "ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES", "offres": 541100},
+      {"name": "AUTRES ACTIVITÉS DE SERVICES", "offres": 1895480},
+      {"name": "ACTIVITÉS DES MÉNAGES EN TANT QU'EMPLOYEURS", "offres": 140450},
+      {"name": "ACTIVITÉS EXTRA-TERRITORIALES", "offres": 2610},
+      {"name": "ACTIVITÉ INCONNUE", "offres": 1070}
+    ]
+                
+            },
+            "Tcontrat": [
+           
+                {"name": "offre non durable", "value": 21145140, "color": "#a5da0f"},
+                {"name": "Offre durable", "value": 22368570, "color": "#388E3C"}
+            ],
+            "offres": 43515630,
+            "secteur": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN",
+            "dipuniv": "BTS gestion de la PME"
+        }
+       
+    },{
+        "input": {
+            "region": "Toute la France",
+            "contrat": "Tous types de contrats",
+            "diplome": "Cadre"
+        },
+        "result": {
+            "region": "Toute la France",
+            "Tdiplome": {
+                "title": "Type de diplome",
+                "color": "#388E3C",
+                "dataKey": "total",
+                "chartData": [
+      {"name": "Cadre", "total": 1607130},
+      {"name": "Agent de maîtrise, technicien", "total": 4888270},
+      {"name": "Employé qualifié", "total": 17230300},
+      {"name": "Employé non qualifié", "total": 10372880},
+      {"name": "Ouvrier qualifié", "total": 4796230},
+      {"name": "Ouvrier spécialisé, manœuvre", "total": 4620820}
+    ]
+            },
+            "Tsecteur": {
+                "title": "Secteurs d'activités",
+                "color": "#388E3C",
+                "dataKey": "offres",
+            "chartData": [
+      {"name": "AGRICULTURE, SYLVICULTURE ET PÊCHE", "offres": 1061120},
+      {"name": "INDUSTRIES EXTRACTIVES", "offres": 8050},
+      {"name": "FABRICATION DE DENRÉES ALIMENTAIRES, DE BOISSONS ET DE PRODUITS À BASE DE TABAC", "offres": 911460},
+      {"name": "FABRICATION DE TEXTILES, INDUSTRIES DE L'HABILLEMENT, INDUSTRIE DU CUIR ET DE LA CHAUSSURE", "offres": 125960},
+      {"name": "TRAVAIL DU BOIS, INDUSTRIES DU PAPIER ET IMPRIMERIE", "offres": 143130},
+      {"name": "COKÉFACTION ET RAFFINAGE", "offres": 1360},
+      {"name": "INDUSTRIE CHIMIQUE", "offres": 69700},
+      {"name": "INDUSTRIE PHARMACEUTIQUE", "offres": 22390},
+      {"name": "FABRICATION DE PRODUITS EN CAOUTCHOUC ET EN PLASTIQUE AINSI QUE D'AUTRES PRODUITS MINÉRAUX NON MÉTALLIQUES", "offres": 144490},
+      {"name": "MÉTALLURGIE ET FABRICATION DE PRODUITS MÉTALLIQUES À L'EXCEPTION DES MACHINES ET DES ÉQUIPEMENTS", "offres": 282320},
+      {"name": "FABRICATION DE PRODUITS INFORMATIQUES, ÉLECTRONIQUES ET OPTIQUES", "offres": 62910},
+      {"name": "FABRICATION D'ÉQUIPEMENTS ÉLECTRIQUES", "offres": 51060},
+      {"name": "FABRICATION DE MACHINES ET ÉQUIPEMENTS N.C.A.", "offres": 128340},
+      {"name": "FABRICATION DE MATÉRIELS DE TRANSPORT", "offres": 119610},
+      {"name": "AUTRES INDUSTRIES MANUFACTURIÈRES- RÉPARATION ET INSTALLATION DE MACHINES ET D'ÉQUIPEMENTS", "offres": 289010},
+      {"name": "PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ, DE VAPEUR ET D'AIR CONDITIONNÉ", "offres": 47530},
+      {"name": "PRODUCTION ET DISTRIBUTION D'EAU- ASSAINISSEMENT, GESTION DES DÉCHETS ET DÉPOLLUTION", "offres": 158240},
+      {"name": "CONSTRUCTION", "offres": 1555810},
+      {"name": "COMMERCE- RÉPARATION D'AUTOMOBILES ET DE MOTOCYCLES", "offres": 4239890},
+      {"name": "TRANSPORTS ET ENTREPOSAGE", "offres": 1101510},
+      {"name": "HÉBERGEMENT ET RESTAURATION", "offres": 3678420},
+      {"name": "EDITION, AUDIOVISUEL ET DIFFUSION", "offres": 396910},
+      {"name": "TÉLÉCOMMUNICATIONS", "offres": 54030},
+      {"name": "ACTIVITÉS INFORMATIQUES ET SERVICES D'INFORMATION", "offres": 553410},
+      {"name": "ACTIVITÉS FINANCIÈRES ET D'ASSURANCE", "offres": 620510},
+      {"name": "ACTIVITÉS IMMOBILIÈRES", "offres": 374760},
+      {"name": "ACTIVITÉS JURIDIQUES, COMPTABLES, DE GESTION, D'ARCHITECTURE, D'INGÉNIERIE, DE CONTRÔLE ET D'ANALYSES TECHNIQUES", "offres": 2668540},
+      {"name": "RECHERCHE-DÉVELOPPEMENT SCIENTIFIQUE", "offres": 50650},
+      {"name": "AUTRES ACTIVITÉS SPÉCIALISÉES, SCIENTIFIQUES ET TECHNIQUES", "offres": 758750},
+      {"name": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN", "offres": 12494980},
+      {"name": "ADMINISTRATION PUBLIQUE", "offres": 1614760},
+      {"name": "ENSEIGNEMENT", "offres": 1999560},
+      {"name": "ACTIVITÉS POUR LA SANTÉ HUMAINE", "offres": 835170},
+      {"name": "HÉBERGEMENT MÉDICO-SOCIAL ET SOCIAL ET ACTION SOCIALE SANS HÉBERGEMENT", "offres": 4310580},
+      {"name": "ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES", "offres": 541100},
+      {"name": "AUTRES ACTIVITÉS DE SERVICES", "offres": 1895480},
+      {"name": "ACTIVITÉS DES MÉNAGES EN TANT QU'EMPLOYEURS", "offres": 140450},
+      {"name": "ACTIVITÉS EXTRA-TERRITORIALES", "offres": 2610},
+      {"name": "ACTIVITÉ INCONNUE", "offres": 1070}
+    ]
+                
+            },
+            "Tcontrat": [
+           
+                {"name": "offre non durable", "value": 21145140, "color": "#a5da0f"},
+                {"name": "Offre durable", "value": 22368570, "color": "#388E3C"}
+            ],
+            "offres": 43515630,
+            "secteur": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN",
+            "dipuniv": "Master Gestion des Services Administratifs"
+        }
+       
+    },
     {
+        "input": {
+            "region": "Toute la France",
+            "contrat": "Offre durable",
+            "diplome": "Tous types de qualification"
+        },
+        "result": {
+            "region": "Toute la France",
+            "Tdiplome": {
+                "title": "Type de diplome",
+                "color": "#388E3C",
+                "dataKey": "total",
+                 "chartData": [
+      {"name": "Cadre", "total": 1607130},
+      {"name": "Agent de maîtrise, technicien", "total": 4888270},
+      {"name": "Employé qualifié", "total": 17230300},
+      {"name": "Employé non qualifié", "total": 10372880},
+      {"name": "Ouvrier qualifié", "total": 4796230},
+      {"name": "Ouvrier spécialisé, manœuvre", "total": 4620820}
+    ]
+            },
+            "Tsecteur": {
+                "title": "Secteurs d'activités",
+                "color": "#388E3C",
+                "dataKey": "offres",
+             "chartData": [
+      {"name": "AGRICULTURE, SYLVICULTURE ET PÊCHE", "offres": 1061120},
+      {"name": "INDUSTRIES EXTRACTIVES", "offres": 8050},
+      {"name": "FABRICATION DE DENRÉES ALIMENTAIRES, DE BOISSONS ET DE PRODUITS À BASE DE TABAC", "offres": 911460},
+      {"name": "FABRICATION DE TEXTILES, INDUSTRIES DE L'HABILLEMENT, INDUSTRIE DU CUIR ET DE LA CHAUSSURE", "offres": 125960},
+      {"name": "TRAVAIL DU BOIS, INDUSTRIES DU PAPIER ET IMPRIMERIE", "offres": 143130},
+      {"name": "COKÉFACTION ET RAFFINAGE", "offres": 1360},
+      {"name": "INDUSTRIE CHIMIQUE", "offres": 69700},
+      {"name": "INDUSTRIE PHARMACEUTIQUE", "offres": 22390},
+      {"name": "FABRICATION DE PRODUITS EN CAOUTCHOUC ET EN PLASTIQUE AINSI QUE D'AUTRES PRODUITS MINÉRAUX NON MÉTALLIQUES", "offres": 144490},
+      {"name": "MÉTALLURGIE ET FABRICATION DE PRODUITS MÉTALLIQUES À L'EXCEPTION DES MACHINES ET DES ÉQUIPEMENTS", "offres": 282320},
+      {"name": "FABRICATION DE PRODUITS INFORMATIQUES, ÉLECTRONIQUES ET OPTIQUES", "offres": 62910},
+      {"name": "FABRICATION D'ÉQUIPEMENTS ÉLECTRIQUES", "offres": 51060},
+      {"name": "FABRICATION DE MACHINES ET ÉQUIPEMENTS N.C.A.", "offres": 128340},
+      {"name": "FABRICATION DE MATÉRIELS DE TRANSPORT", "offres": 119610},
+      {"name": "AUTRES INDUSTRIES MANUFACTURIÈRES- RÉPARATION ET INSTALLATION DE MACHINES ET D'ÉQUIPEMENTS", "offres": 289010},
+      {"name": "PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ, DE VAPEUR ET D'AIR CONDITIONNÉ", "offres": 47530},
+      {"name": "PRODUCTION ET DISTRIBUTION D'EAU- ASSAINISSEMENT, GESTION DES DÉCHETS ET DÉPOLLUTION", "offres": 158240},
+      {"name": "CONSTRUCTION", "offres": 1555810},
+      {"name": "COMMERCE- RÉPARATION D'AUTOMOBILES ET DE MOTOCYCLES", "offres": 4239890},
+      {"name": "TRANSPORTS ET ENTREPOSAGE", "offres": 1101510},
+      {"name": "HÉBERGEMENT ET RESTAURATION", "offres": 3678420},
+      {"name": "EDITION, AUDIOVISUEL ET DIFFUSION", "offres": 396910},
+      {"name": "TÉLÉCOMMUNICATIONS", "offres": 54030},
+      {"name": "ACTIVITÉS INFORMATIQUES ET SERVICES D'INFORMATION", "offres": 553410},
+      {"name": "ACTIVITÉS FINANCIÈRES ET D'ASSURANCE", "offres": 620510},
+      {"name": "ACTIVITÉS IMMOBILIÈRES", "offres": 374760},
+      {"name": "ACTIVITÉS JURIDIQUES, COMPTABLES, DE GESTION, D'ARCHITECTURE, D'INGÉNIERIE, DE CONTRÔLE ET D'ANALYSES TECHNIQUES", "offres": 2668540},
+      {"name": "RECHERCHE-DÉVELOPPEMENT SCIENTIFIQUE", "offres": 50650},
+      {"name": "AUTRES ACTIVITÉS SPÉCIALISÉES, SCIENTIFIQUES ET TECHNIQUES", "offres": 758750},
+      {"name": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN", "offres": 12494980},
+      {"name": "ADMINISTRATION PUBLIQUE", "offres": 1614760},
+      {"name": "ENSEIGNEMENT", "offres": 1999560},
+      {"name": "ACTIVITÉS POUR LA SANTÉ HUMAINE", "offres": 835170},
+      {"name": "HÉBERGEMENT MÉDICO-SOCIAL ET SOCIAL ET ACTION SOCIALE SANS HÉBERGEMENT", "offres": 4310580},
+      {"name": "ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES", "offres": 541100},
+      {"name": "AUTRES ACTIVITÉS DE SERVICES", "offres": 1895480},
+      {"name": "ACTIVITÉS DES MÉNAGES EN TANT QU'EMPLOYEURS", "offres": 140450},
+      {"name": "ACTIVITÉS EXTRA-TERRITORIALES", "offres": 2610},
+      {"name": "ACTIVITÉ INCONNUE", "offres": 1070}
+    ]
+                
+            },
+            "Tcontrat": [
+           
+                {"name": "offre non durable", "value": 21145140, "color": "#a5da0f"},
+                {"name": "Offre durable", "value": 22368570, "color": "#388E3C"}
+            ],
+            "offres": 22368570,
+            "secteur": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN",
+            "dipuniv": "BAC Pro AGORA "
+        }
+       
+    },{
+        "input": {
+            "region": "Toute la France",
+            "contrat": "Offre durable",
+            "diplome": "Ouvrier spécialisé, manœuvre"
+        },
+        "result": {
+            "region": "Toute la France",
+            "Tdiplome": {
+                "title": "Type de diplome",
+                "color": "#388E3C",
+                "dataKey": "total",
+                "chartData": [
+      {"name": "Cadre", "total": 1607130},
+      {"name": "Agent de maîtrise, technicien", "total": 4888270},
+      {"name": "Employé qualifié", "total": 17230300},
+      {"name": "Employé non qualifié", "total": 10372880},
+      {"name": "Ouvrier qualifié", "total": 4796230},
+      {"name": "Ouvrier spécialisé, manœuvre", "total": 4620820}
+    ]
+            },
+            "Tsecteur": {
+                "title": "Secteurs d'activités",
+                "color": "#388E3C",
+                "dataKey": "offres",
+            "chartData": [
+      {"name": "AGRICULTURE, SYLVICULTURE ET PÊCHE", "offres": 1061120},
+      {"name": "INDUSTRIES EXTRACTIVES", "offres": 8050},
+      {"name": "FABRICATION DE DENRÉES ALIMENTAIRES, DE BOISSONS ET DE PRODUITS À BASE DE TABAC", "offres": 911460},
+      {"name": "FABRICATION DE TEXTILES, INDUSTRIES DE L'HABILLEMENT, INDUSTRIE DU CUIR ET DE LA CHAUSSURE", "offres": 125960},
+      {"name": "TRAVAIL DU BOIS, INDUSTRIES DU PAPIER ET IMPRIMERIE", "offres": 143130},
+      {"name": "COKÉFACTION ET RAFFINAGE", "offres": 1360},
+      {"name": "INDUSTRIE CHIMIQUE", "offres": 69700},
+      {"name": "INDUSTRIE PHARMACEUTIQUE", "offres": 22390},
+      {"name": "FABRICATION DE PRODUITS EN CAOUTCHOUC ET EN PLASTIQUE AINSI QUE D'AUTRES PRODUITS MINÉRAUX NON MÉTALLIQUES", "offres": 144490},
+      {"name": "MÉTALLURGIE ET FABRICATION DE PRODUITS MÉTALLIQUES À L'EXCEPTION DES MACHINES ET DES ÉQUIPEMENTS", "offres": 282320},
+      {"name": "FABRICATION DE PRODUITS INFORMATIQUES, ÉLECTRONIQUES ET OPTIQUES", "offres": 62910},
+      {"name": "FABRICATION D'ÉQUIPEMENTS ÉLECTRIQUES", "offres": 51060},
+      {"name": "FABRICATION DE MACHINES ET ÉQUIPEMENTS N.C.A.", "offres": 128340},
+      {"name": "FABRICATION DE MATÉRIELS DE TRANSPORT", "offres": 119610},
+      {"name": "AUTRES INDUSTRIES MANUFACTURIÈRES- RÉPARATION ET INSTALLATION DE MACHINES ET D'ÉQUIPEMENTS", "offres": 289010},
+      {"name": "PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ, DE VAPEUR ET D'AIR CONDITIONNÉ", "offres": 47530},
+      {"name": "PRODUCTION ET DISTRIBUTION D'EAU- ASSAINISSEMENT, GESTION DES DÉCHETS ET DÉPOLLUTION", "offres": 158240},
+      {"name": "CONSTRUCTION", "offres": 1555810},
+      {"name": "COMMERCE- RÉPARATION D'AUTOMOBILES ET DE MOTOCYCLES", "offres": 4239890},
+      {"name": "TRANSPORTS ET ENTREPOSAGE", "offres": 1101510},
+      {"name": "HÉBERGEMENT ET RESTAURATION", "offres": 3678420},
+      {"name": "EDITION, AUDIOVISUEL ET DIFFUSION", "offres": 396910},
+      {"name": "TÉLÉCOMMUNICATIONS", "offres": 54030},
+      {"name": "ACTIVITÉS INFORMATIQUES ET SERVICES D'INFORMATION", "offres": 553410},
+      {"name": "ACTIVITÉS FINANCIÈRES ET D'ASSURANCE", "offres": 620510},
+      {"name": "ACTIVITÉS IMMOBILIÈRES", "offres": 374760},
+      {"name": "ACTIVITÉS JURIDIQUES, COMPTABLES, DE GESTION, D'ARCHITECTURE, D'INGÉNIERIE, DE CONTRÔLE ET D'ANALYSES TECHNIQUES", "offres": 2668540},
+      {"name": "RECHERCHE-DÉVELOPPEMENT SCIENTIFIQUE", "offres": 50650},
+      {"name": "AUTRES ACTIVITÉS SPÉCIALISÉES, SCIENTIFIQUES ET TECHNIQUES", "offres": 758750},
+      {"name": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN", "offres": 12494980},
+      {"name": "ADMINISTRATION PUBLIQUE", "offres": 1614760},
+      {"name": "ENSEIGNEMENT", "offres": 1999560},
+      {"name": "ACTIVITÉS POUR LA SANTÉ HUMAINE", "offres": 835170},
+      {"name": "HÉBERGEMENT MÉDICO-SOCIAL ET SOCIAL ET ACTION SOCIALE SANS HÉBERGEMENT", "offres": 4310580},
+      {"name": "ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES", "offres": 541100},
+      {"name": "AUTRES ACTIVITÉS DE SERVICES", "offres": 1895480},
+      {"name": "ACTIVITÉS DES MÉNAGES EN TANT QU'EMPLOYEURS", "offres": 140450},
+      {"name": "ACTIVITÉS EXTRA-TERRITORIALES", "offres": 2610},
+      {"name": "ACTIVITÉ INCONNUE", "offres": 1070}
+    ]
+                
+            },
+            "Tcontrat": [
+           
+                {"name": "offre non durable", "value": 21145140, "color": "#a5da0f"},
+                {"name": "Offre durable", "value": 22368570, "color": "#388E3C"}
+            ],
+            "offres": 22368570,
+            "secteur": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN",
+            "dipuniv": "BAC Pro AGORA "
+        }
+       
+    },{
+        "input": {
+            "region": "Toute la France",
+            "contrat": "Offre durable",
+            "diplome": "Ouvrier qualifié"
+        },
+        "result": {
+            "region": "Toute la France",
+            "Tdiplome": {
+                "title": "Type de diplome",
+                "color": "#388E3C",
+                "dataKey": "total",
+                 "chartData": [
+      {"name": "Cadre", "total": 1607130},
+      {"name": "Agent de maîtrise, technicien", "total": 4888270},
+      {"name": "Employé qualifié", "total": 17230300},
+      {"name": "Employé non qualifié", "total": 10372880},
+      {"name": "Ouvrier qualifié", "total": 4796230},
+      {"name": "Ouvrier spécialisé, manœuvre", "total": 4620820}
+    ]
+            },
+            "Tsecteur": {
+                "title": "Secteurs d'activités",
+                "color": "#388E3C",
+                "dataKey": "offres",
+             "chartData": [
+      {"name": "AGRICULTURE, SYLVICULTURE ET PÊCHE", "offres": 1061120},
+      {"name": "INDUSTRIES EXTRACTIVES", "offres": 8050},
+      {"name": "FABRICATION DE DENRÉES ALIMENTAIRES, DE BOISSONS ET DE PRODUITS À BASE DE TABAC", "offres": 911460},
+      {"name": "FABRICATION DE TEXTILES, INDUSTRIES DE L'HABILLEMENT, INDUSTRIE DU CUIR ET DE LA CHAUSSURE", "offres": 125960},
+      {"name": "TRAVAIL DU BOIS, INDUSTRIES DU PAPIER ET IMPRIMERIE", "offres": 143130},
+      {"name": "COKÉFACTION ET RAFFINAGE", "offres": 1360},
+      {"name": "INDUSTRIE CHIMIQUE", "offres": 69700},
+      {"name": "INDUSTRIE PHARMACEUTIQUE", "offres": 22390},
+      {"name": "FABRICATION DE PRODUITS EN CAOUTCHOUC ET EN PLASTIQUE AINSI QUE D'AUTRES PRODUITS MINÉRAUX NON MÉTALLIQUES", "offres": 144490},
+      {"name": "MÉTALLURGIE ET FABRICATION DE PRODUITS MÉTALLIQUES À L'EXCEPTION DES MACHINES ET DES ÉQUIPEMENTS", "offres": 282320},
+      {"name": "FABRICATION DE PRODUITS INFORMATIQUES, ÉLECTRONIQUES ET OPTIQUES", "offres": 62910},
+      {"name": "FABRICATION D'ÉQUIPEMENTS ÉLECTRIQUES", "offres": 51060},
+      {"name": "FABRICATION DE MACHINES ET ÉQUIPEMENTS N.C.A.", "offres": 128340},
+      {"name": "FABRICATION DE MATÉRIELS DE TRANSPORT", "offres": 119610},
+      {"name": "AUTRES INDUSTRIES MANUFACTURIÈRES- RÉPARATION ET INSTALLATION DE MACHINES ET D'ÉQUIPEMENTS", "offres": 289010},
+      {"name": "PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ, DE VAPEUR ET D'AIR CONDITIONNÉ", "offres": 47530},
+      {"name": "PRODUCTION ET DISTRIBUTION D'EAU- ASSAINISSEMENT, GESTION DES DÉCHETS ET DÉPOLLUTION", "offres": 158240},
+      {"name": "CONSTRUCTION", "offres": 1555810},
+      {"name": "COMMERCE- RÉPARATION D'AUTOMOBILES ET DE MOTOCYCLES", "offres": 4239890},
+      {"name": "TRANSPORTS ET ENTREPOSAGE", "offres": 1101510},
+      {"name": "HÉBERGEMENT ET RESTAURATION", "offres": 3678420},
+      {"name": "EDITION, AUDIOVISUEL ET DIFFUSION", "offres": 396910},
+      {"name": "TÉLÉCOMMUNICATIONS", "offres": 54030},
+      {"name": "ACTIVITÉS INFORMATIQUES ET SERVICES D'INFORMATION", "offres": 553410},
+      {"name": "ACTIVITÉS FINANCIÈRES ET D'ASSURANCE", "offres": 620510},
+      {"name": "ACTIVITÉS IMMOBILIÈRES", "offres": 374760},
+      {"name": "ACTIVITÉS JURIDIQUES, COMPTABLES, DE GESTION, D'ARCHITECTURE, D'INGÉNIERIE, DE CONTRÔLE ET D'ANALYSES TECHNIQUES", "offres": 2668540},
+      {"name": "RECHERCHE-DÉVELOPPEMENT SCIENTIFIQUE", "offres": 50650},
+      {"name": "AUTRES ACTIVITÉS SPÉCIALISÉES, SCIENTIFIQUES ET TECHNIQUES", "offres": 758750},
+      {"name": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN", "offres": 12494980},
+      {"name": "ADMINISTRATION PUBLIQUE", "offres": 1614760},
+      {"name": "ENSEIGNEMENT", "offres": 1999560},
+      {"name": "ACTIVITÉS POUR LA SANTÉ HUMAINE", "offres": 835170},
+      {"name": "HÉBERGEMENT MÉDICO-SOCIAL ET SOCIAL ET ACTION SOCIALE SANS HÉBERGEMENT", "offres": 4310580},
+      {"name": "ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES", "offres": 541100},
+      {"name": "AUTRES ACTIVITÉS DE SERVICES", "offres": 1895480},
+      {"name": "ACTIVITÉS DES MÉNAGES EN TANT QU'EMPLOYEURS", "offres": 140450},
+      {"name": "ACTIVITÉS EXTRA-TERRITORIALES", "offres": 2610},
+      {"name": "ACTIVITÉ INCONNUE", "offres": 1070}
+    ]
+                
+            },
+            "Tcontrat": [
+           
+                {"name": "offre non durable", "value": 21145140, "color": "#a5da0f"},
+                {"name": "Offre durable", "value": 22368570, "color": "#388E3C"}
+            ],
+            "offres": 22368570,
+            "secteur": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN",
+            "dipuniv": "BAC Pro AGORA "
+        }
+       
+    },{
+        "input": {
+            "region": "Toute la France",
+            "contrat": "Offre durable",
+            "diplome": "Employé non qualifié"
+        },
+        "result": {
+            "region": "Toute la France",
+            "Tdiplome": {
+                "title": "Type de diplome",
+                "color": "#388E3C",
+                "dataKey": "total",
+                "chartData": [
+      {"name": "Cadre", "total": 1607130},
+      {"name": "Agent de maîtrise, technicien", "total": 4888270},
+      {"name": "Employé qualifié", "total": 17230300},
+      {"name": "Employé non qualifié", "total": 10372880},
+      {"name": "Ouvrier qualifié", "total": 4796230},
+      {"name": "Ouvrier spécialisé, manœuvre", "total": 4620820}
+    ]
+            },
+            "Tsecteur": {
+                "title": "Secteurs d'activités",
+                "color": "#388E3C",
+                "dataKey": "offres",
+             "chartData": [
+      {"name": "AGRICULTURE, SYLVICULTURE ET PÊCHE", "offres": 1061120},
+      {"name": "INDUSTRIES EXTRACTIVES", "offres": 8050},
+      {"name": "FABRICATION DE DENRÉES ALIMENTAIRES, DE BOISSONS ET DE PRODUITS À BASE DE TABAC", "offres": 911460},
+      {"name": "FABRICATION DE TEXTILES, INDUSTRIES DE L'HABILLEMENT, INDUSTRIE DU CUIR ET DE LA CHAUSSURE", "offres": 125960},
+      {"name": "TRAVAIL DU BOIS, INDUSTRIES DU PAPIER ET IMPRIMERIE", "offres": 143130},
+      {"name": "COKÉFACTION ET RAFFINAGE", "offres": 1360},
+      {"name": "INDUSTRIE CHIMIQUE", "offres": 69700},
+      {"name": "INDUSTRIE PHARMACEUTIQUE", "offres": 22390},
+      {"name": "FABRICATION DE PRODUITS EN CAOUTCHOUC ET EN PLASTIQUE AINSI QUE D'AUTRES PRODUITS MINÉRAUX NON MÉTALLIQUES", "offres": 144490},
+      {"name": "MÉTALLURGIE ET FABRICATION DE PRODUITS MÉTALLIQUES À L'EXCEPTION DES MACHINES ET DES ÉQUIPEMENTS", "offres": 282320},
+      {"name": "FABRICATION DE PRODUITS INFORMATIQUES, ÉLECTRONIQUES ET OPTIQUES", "offres": 62910},
+      {"name": "FABRICATION D'ÉQUIPEMENTS ÉLECTRIQUES", "offres": 51060},
+      {"name": "FABRICATION DE MACHINES ET ÉQUIPEMENTS N.C.A.", "offres": 128340},
+      {"name": "FABRICATION DE MATÉRIELS DE TRANSPORT", "offres": 119610},
+      {"name": "AUTRES INDUSTRIES MANUFACTURIÈRES- RÉPARATION ET INSTALLATION DE MACHINES ET D'ÉQUIPEMENTS", "offres": 289010},
+      {"name": "PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ, DE VAPEUR ET D'AIR CONDITIONNÉ", "offres": 47530},
+      {"name": "PRODUCTION ET DISTRIBUTION D'EAU- ASSAINISSEMENT, GESTION DES DÉCHETS ET DÉPOLLUTION", "offres": 158240},
+      {"name": "CONSTRUCTION", "offres": 1555810},
+      {"name": "COMMERCE- RÉPARATION D'AUTOMOBILES ET DE MOTOCYCLES", "offres": 4239890},
+      {"name": "TRANSPORTS ET ENTREPOSAGE", "offres": 1101510},
+      {"name": "HÉBERGEMENT ET RESTAURATION", "offres": 3678420},
+      {"name": "EDITION, AUDIOVISUEL ET DIFFUSION", "offres": 396910},
+      {"name": "TÉLÉCOMMUNICATIONS", "offres": 54030},
+      {"name": "ACTIVITÉS INFORMATIQUES ET SERVICES D'INFORMATION", "offres": 553410},
+      {"name": "ACTIVITÉS FINANCIÈRES ET D'ASSURANCE", "offres": 620510},
+      {"name": "ACTIVITÉS IMMOBILIÈRES", "offres": 374760},
+      {"name": "ACTIVITÉS JURIDIQUES, COMPTABLES, DE GESTION, D'ARCHITECTURE, D'INGÉNIERIE, DE CONTRÔLE ET D'ANALYSES TECHNIQUES", "offres": 2668540},
+      {"name": "RECHERCHE-DÉVELOPPEMENT SCIENTIFIQUE", "offres": 50650},
+      {"name": "AUTRES ACTIVITÉS SPÉCIALISÉES, SCIENTIFIQUES ET TECHNIQUES", "offres": 758750},
+      {"name": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN", "offres": 12494980},
+      {"name": "ADMINISTRATION PUBLIQUE", "offres": 1614760},
+      {"name": "ENSEIGNEMENT", "offres": 1999560},
+      {"name": "ACTIVITÉS POUR LA SANTÉ HUMAINE", "offres": 835170},
+      {"name": "HÉBERGEMENT MÉDICO-SOCIAL ET SOCIAL ET ACTION SOCIALE SANS HÉBERGEMENT", "offres": 4310580},
+      {"name": "ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES", "offres": 541100},
+      {"name": "AUTRES ACTIVITÉS DE SERVICES", "offres": 1895480},
+      {"name": "ACTIVITÉS DES MÉNAGES EN TANT QU'EMPLOYEURS", "offres": 140450},
+      {"name": "ACTIVITÉS EXTRA-TERRITORIALES", "offres": 2610},
+      {"name": "ACTIVITÉ INCONNUE", "offres": 1070}
+    ]
+                
+            },
+            "Tcontrat": [
+           
+                {"name": "offre non durable", "value": 21145140, "color": "#a5da0f"},
+                {"name": "Offre durable", "value": 22368570, "color": "#388E3C"}
+            ],
+            "offres": 22368570,
+            "secteur": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN",
+            "dipuniv": "BAC Pro AGORA "
+        }
+       
+    },{
+        "input": {
+            "region": "Toute la France",
+            "contrat": "Offre durable",
+            "diplome": "Employé qualifié"
+        },
+        "result": {
+            "region": "Toute la France",
+            "Tdiplome": {
+                "title": "Type de diplome",
+                "color": "#388E3C",
+                "dataKey": "total",
+                "chartData": [
+      {"name": "Cadre", "total": 1607130},
+      {"name": "Agent de maîtrise, technicien", "total": 4888270},
+      {"name": "Employé qualifié", "total": 17230300},
+      {"name": "Employé non qualifié", "total": 10372880},
+      {"name": "Ouvrier qualifié", "total": 4796230},
+      {"name": "Ouvrier spécialisé, manœuvre", "total": 4620820}
+    ]
+            },
+            "Tsecteur": {
+                "title": "Secteurs d'activités",
+                "color": "#388E3C",
+                "dataKey": "offres",
+            "chartData": [
+      {"name": "AGRICULTURE, SYLVICULTURE ET PÊCHE", "offres": 1061120},
+      {"name": "INDUSTRIES EXTRACTIVES", "offres": 8050},
+      {"name": "FABRICATION DE DENRÉES ALIMENTAIRES, DE BOISSONS ET DE PRODUITS À BASE DE TABAC", "offres": 911460},
+      {"name": "FABRICATION DE TEXTILES, INDUSTRIES DE L'HABILLEMENT, INDUSTRIE DU CUIR ET DE LA CHAUSSURE", "offres": 125960},
+      {"name": "TRAVAIL DU BOIS, INDUSTRIES DU PAPIER ET IMPRIMERIE", "offres": 143130},
+      {"name": "COKÉFACTION ET RAFFINAGE", "offres": 1360},
+      {"name": "INDUSTRIE CHIMIQUE", "offres": 69700},
+      {"name": "INDUSTRIE PHARMACEUTIQUE", "offres": 22390},
+      {"name": "FABRICATION DE PRODUITS EN CAOUTCHOUC ET EN PLASTIQUE AINSI QUE D'AUTRES PRODUITS MINÉRAUX NON MÉTALLIQUES", "offres": 144490},
+      {"name": "MÉTALLURGIE ET FABRICATION DE PRODUITS MÉTALLIQUES À L'EXCEPTION DES MACHINES ET DES ÉQUIPEMENTS", "offres": 282320},
+      {"name": "FABRICATION DE PRODUITS INFORMATIQUES, ÉLECTRONIQUES ET OPTIQUES", "offres": 62910},
+      {"name": "FABRICATION D'ÉQUIPEMENTS ÉLECTRIQUES", "offres": 51060},
+      {"name": "FABRICATION DE MACHINES ET ÉQUIPEMENTS N.C.A.", "offres": 128340},
+      {"name": "FABRICATION DE MATÉRIELS DE TRANSPORT", "offres": 119610},
+      {"name": "AUTRES INDUSTRIES MANUFACTURIÈRES- RÉPARATION ET INSTALLATION DE MACHINES ET D'ÉQUIPEMENTS", "offres": 289010},
+      {"name": "PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ, DE VAPEUR ET D'AIR CONDITIONNÉ", "offres": 47530},
+      {"name": "PRODUCTION ET DISTRIBUTION D'EAU- ASSAINISSEMENT, GESTION DES DÉCHETS ET DÉPOLLUTION", "offres": 158240},
+      {"name": "CONSTRUCTION", "offres": 1555810},
+      {"name": "COMMERCE- RÉPARATION D'AUTOMOBILES ET DE MOTOCYCLES", "offres": 4239890},
+      {"name": "TRANSPORTS ET ENTREPOSAGE", "offres": 1101510},
+      {"name": "HÉBERGEMENT ET RESTAURATION", "offres": 3678420},
+      {"name": "EDITION, AUDIOVISUEL ET DIFFUSION", "offres": 396910},
+      {"name": "TÉLÉCOMMUNICATIONS", "offres": 54030},
+      {"name": "ACTIVITÉS INFORMATIQUES ET SERVICES D'INFORMATION", "offres": 553410},
+      {"name": "ACTIVITÉS FINANCIÈRES ET D'ASSURANCE", "offres": 620510},
+      {"name": "ACTIVITÉS IMMOBILIÈRES", "offres": 374760},
+      {"name": "ACTIVITÉS JURIDIQUES, COMPTABLES, DE GESTION, D'ARCHITECTURE, D'INGÉNIERIE, DE CONTRÔLE ET D'ANALYSES TECHNIQUES", "offres": 2668540},
+      {"name": "RECHERCHE-DÉVELOPPEMENT SCIENTIFIQUE", "offres": 50650},
+      {"name": "AUTRES ACTIVITÉS SPÉCIALISÉES, SCIENTIFIQUES ET TECHNIQUES", "offres": 758750},
+      {"name": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN", "offres": 12494980},
+      {"name": "ADMINISTRATION PUBLIQUE", "offres": 1614760},
+      {"name": "ENSEIGNEMENT", "offres": 1999560},
+      {"name": "ACTIVITÉS POUR LA SANTÉ HUMAINE", "offres": 835170},
+      {"name": "HÉBERGEMENT MÉDICO-SOCIAL ET SOCIAL ET ACTION SOCIALE SANS HÉBERGEMENT", "offres": 4310580},
+      {"name": "ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES", "offres": 541100},
+      {"name": "AUTRES ACTIVITÉS DE SERVICES", "offres": 1895480},
+      {"name": "ACTIVITÉS DES MÉNAGES EN TANT QU'EMPLOYEURS", "offres": 140450},
+      {"name": "ACTIVITÉS EXTRA-TERRITORIALES", "offres": 2610},
+      {"name": "ACTIVITÉ INCONNUE", "offres": 1070}
+    ]
+                
+            },
+            "Tcontrat": [
+           
+                {"name": "offre non durable", "value": 21145140, "color": "#a5da0f"},
+                {"name": "Offre durable", "value": 22368570, "color": "#388E3C"}
+            ],
+            "offres": 22368570,
+            "secteur": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN",
+            "dipuniv": "BEP Métiers des services administratifs"
+        }
+       
+    },{
+        "input": {
+            "region": "Toute la France",
+            "contrat": "Offre durable",
+            "diplome": "Agent de maîtrise, technicien"
+        },
+        "result": {
+            "region": "Toute la France",
+            "Tdiplome": {
+                "title": "Type de diplome",
+                "color": "#388E3C",
+                "dataKey": "total",
+                "chartData": [
+      {"name": "Cadre", "total": 1607130},
+      {"name": "Agent de maîtrise, technicien", "total": 4888270},
+      {"name": "Employé qualifié", "total": 17230300},
+      {"name": "Employé non qualifié", "total": 10372880},
+      {"name": "Ouvrier qualifié", "total": 4796230},
+      {"name": "Ouvrier spécialisé, manœuvre", "total": 4620820}
+    ]
+            },
+            "Tsecteur": {
+                "title": "Secteurs d'activités",
+                "color": "#388E3C",
+                "dataKey": "offres",
+             "chartData": [
+      {"name": "AGRICULTURE, SYLVICULTURE ET PÊCHE", "offres": 1061120},
+      {"name": "INDUSTRIES EXTRACTIVES", "offres": 8050},
+      {"name": "FABRICATION DE DENRÉES ALIMENTAIRES, DE BOISSONS ET DE PRODUITS À BASE DE TABAC", "offres": 911460},
+      {"name": "FABRICATION DE TEXTILES, INDUSTRIES DE L'HABILLEMENT, INDUSTRIE DU CUIR ET DE LA CHAUSSURE", "offres": 125960},
+      {"name": "TRAVAIL DU BOIS, INDUSTRIES DU PAPIER ET IMPRIMERIE", "offres": 143130},
+      {"name": "COKÉFACTION ET RAFFINAGE", "offres": 1360},
+      {"name": "INDUSTRIE CHIMIQUE", "offres": 69700},
+      {"name": "INDUSTRIE PHARMACEUTIQUE", "offres": 22390},
+      {"name": "FABRICATION DE PRODUITS EN CAOUTCHOUC ET EN PLASTIQUE AINSI QUE D'AUTRES PRODUITS MINÉRAUX NON MÉTALLIQUES", "offres": 144490},
+      {"name": "MÉTALLURGIE ET FABRICATION DE PRODUITS MÉTALLIQUES À L'EXCEPTION DES MACHINES ET DES ÉQUIPEMENTS", "offres": 282320},
+      {"name": "FABRICATION DE PRODUITS INFORMATIQUES, ÉLECTRONIQUES ET OPTIQUES", "offres": 62910},
+      {"name": "FABRICATION D'ÉQUIPEMENTS ÉLECTRIQUES", "offres": 51060},
+      {"name": "FABRICATION DE MACHINES ET ÉQUIPEMENTS N.C.A.", "offres": 128340},
+      {"name": "FABRICATION DE MATÉRIELS DE TRANSPORT", "offres": 119610},
+      {"name": "AUTRES INDUSTRIES MANUFACTURIÈRES- RÉPARATION ET INSTALLATION DE MACHINES ET D'ÉQUIPEMENTS", "offres": 289010},
+      {"name": "PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ, DE VAPEUR ET D'AIR CONDITIONNÉ", "offres": 47530},
+      {"name": "PRODUCTION ET DISTRIBUTION D'EAU- ASSAINISSEMENT, GESTION DES DÉCHETS ET DÉPOLLUTION", "offres": 158240},
+      {"name": "CONSTRUCTION", "offres": 1555810},
+      {"name": "COMMERCE- RÉPARATION D'AUTOMOBILES ET DE MOTOCYCLES", "offres": 4239890},
+      {"name": "TRANSPORTS ET ENTREPOSAGE", "offres": 1101510},
+      {"name": "HÉBERGEMENT ET RESTAURATION", "offres": 3678420},
+      {"name": "EDITION, AUDIOVISUEL ET DIFFUSION", "offres": 396910},
+      {"name": "TÉLÉCOMMUNICATIONS", "offres": 54030},
+      {"name": "ACTIVITÉS INFORMATIQUES ET SERVICES D'INFORMATION", "offres": 553410},
+      {"name": "ACTIVITÉS FINANCIÈRES ET D'ASSURANCE", "offres": 620510},
+      {"name": "ACTIVITÉS IMMOBILIÈRES", "offres": 374760},
+      {"name": "ACTIVITÉS JURIDIQUES, COMPTABLES, DE GESTION, D'ARCHITECTURE, D'INGÉNIERIE, DE CONTRÔLE ET D'ANALYSES TECHNIQUES", "offres": 2668540},
+      {"name": "RECHERCHE-DÉVELOPPEMENT SCIENTIFIQUE", "offres": 50650},
+      {"name": "AUTRES ACTIVITÉS SPÉCIALISÉES, SCIENTIFIQUES ET TECHNIQUES", "offres": 758750},
+      {"name": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN", "offres": 12494980},
+      {"name": "ADMINISTRATION PUBLIQUE", "offres": 1614760},
+      {"name": "ENSEIGNEMENT", "offres": 1999560},
+      {"name": "ACTIVITÉS POUR LA SANTÉ HUMAINE", "offres": 835170},
+      {"name": "HÉBERGEMENT MÉDICO-SOCIAL ET SOCIAL ET ACTION SOCIALE SANS HÉBERGEMENT", "offres": 4310580},
+      {"name": "ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES", "offres": 541100},
+      {"name": "AUTRES ACTIVITÉS DE SERVICES", "offres": 1895480},
+      {"name": "ACTIVITÉS DES MÉNAGES EN TANT QU'EMPLOYEURS", "offres": 140450},
+      {"name": "ACTIVITÉS EXTRA-TERRITORIALES", "offres": 2610},
+      {"name": "ACTIVITÉ INCONNUE", "offres": 1070}
+    ]
+            },
+            "Tcontrat": [
+           
+                {"name": "offre non durable", "value": 21145140, "color": "#a5da0f"},
+                {"name": "Offre durable", "value": 22368570, "color": "#388E3C"}
+            ],
+            "offres": 22368570,
+            "secteur": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN",
+            "dipuniv": "BTS gestion de la PME"
+        }
+       
+    },{
+        "input": {
+            "region": "Toute la France",
+            "contrat": "Offre durable",
+            "diplome": "Cadre"
+        },
+        "result": {
+            "region": "Toute la France",
+            "Tdiplome": {
+                "title": "Type de diplome",
+                "color": "#388E3C",
+                "dataKey": "total",
+                 "chartData": [
+      {"name": "Cadre", "total": 1607130},
+      {"name": "Agent de maîtrise, technicien", "total": 4888270},
+      {"name": "Employé qualifié", "total": 17230300},
+      {"name": "Employé non qualifié", "total": 10372880},
+      {"name": "Ouvrier qualifié", "total": 4796230},
+      {"name": "Ouvrier spécialisé, manœuvre", "total": 4620820}
+    ]
+            },
+            "Tsecteur": {
+                "title": "Secteurs d'activités",
+                "color": "#388E3C",
+                "dataKey": "offres",
+              "chartData": [
+      {"name": "AGRICULTURE, SYLVICULTURE ET PÊCHE", "offres": 1061120},
+      {"name": "INDUSTRIES EXTRACTIVES", "offres": 8050},
+      {"name": "FABRICATION DE DENRÉES ALIMENTAIRES, DE BOISSONS ET DE PRODUITS À BASE DE TABAC", "offres": 911460},
+      {"name": "FABRICATION DE TEXTILES, INDUSTRIES DE L'HABILLEMENT, INDUSTRIE DU CUIR ET DE LA CHAUSSURE", "offres": 125960},
+      {"name": "TRAVAIL DU BOIS, INDUSTRIES DU PAPIER ET IMPRIMERIE", "offres": 143130},
+      {"name": "COKÉFACTION ET RAFFINAGE", "offres": 1360},
+      {"name": "INDUSTRIE CHIMIQUE", "offres": 69700},
+      {"name": "INDUSTRIE PHARMACEUTIQUE", "offres": 22390},
+      {"name": "FABRICATION DE PRODUITS EN CAOUTCHOUC ET EN PLASTIQUE AINSI QUE D'AUTRES PRODUITS MINÉRAUX NON MÉTALLIQUES", "offres": 144490},
+      {"name": "MÉTALLURGIE ET FABRICATION DE PRODUITS MÉTALLIQUES À L'EXCEPTION DES MACHINES ET DES ÉQUIPEMENTS", "offres": 282320},
+      {"name": "FABRICATION DE PRODUITS INFORMATIQUES, ÉLECTRONIQUES ET OPTIQUES", "offres": 62910},
+      {"name": "FABRICATION D'ÉQUIPEMENTS ÉLECTRIQUES", "offres": 51060},
+      {"name": "FABRICATION DE MACHINES ET ÉQUIPEMENTS N.C.A.", "offres": 128340},
+      {"name": "FABRICATION DE MATÉRIELS DE TRANSPORT", "offres": 119610},
+      {"name": "AUTRES INDUSTRIES MANUFACTURIÈRES- RÉPARATION ET INSTALLATION DE MACHINES ET D'ÉQUIPEMENTS", "offres": 289010},
+      {"name": "PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ, DE VAPEUR ET D'AIR CONDITIONNÉ", "offres": 47530},
+      {"name": "PRODUCTION ET DISTRIBUTION D'EAU- ASSAINISSEMENT, GESTION DES DÉCHETS ET DÉPOLLUTION", "offres": 158240},
+      {"name": "CONSTRUCTION", "offres": 1555810},
+      {"name": "COMMERCE- RÉPARATION D'AUTOMOBILES ET DE MOTOCYCLES", "offres": 4239890},
+      {"name": "TRANSPORTS ET ENTREPOSAGE", "offres": 1101510},
+      {"name": "HÉBERGEMENT ET RESTAURATION", "offres": 3678420},
+      {"name": "EDITION, AUDIOVISUEL ET DIFFUSION", "offres": 396910},
+      {"name": "TÉLÉCOMMUNICATIONS", "offres": 54030},
+      {"name": "ACTIVITÉS INFORMATIQUES ET SERVICES D'INFORMATION", "offres": 553410},
+      {"name": "ACTIVITÉS FINANCIÈRES ET D'ASSURANCE", "offres": 620510},
+      {"name": "ACTIVITÉS IMMOBILIÈRES", "offres": 374760},
+      {"name": "ACTIVITÉS JURIDIQUES, COMPTABLES, DE GESTION, D'ARCHITECTURE, D'INGÉNIERIE, DE CONTRÔLE ET D'ANALYSES TECHNIQUES", "offres": 2668540},
+      {"name": "RECHERCHE-DÉVELOPPEMENT SCIENTIFIQUE", "offres": 50650},
+      {"name": "AUTRES ACTIVITÉS SPÉCIALISÉES, SCIENTIFIQUES ET TECHNIQUES", "offres": 758750},
+      {"name": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN", "offres": 12494980},
+      {"name": "ADMINISTRATION PUBLIQUE", "offres": 1614760},
+      {"name": "ENSEIGNEMENT", "offres": 1999560},
+      {"name": "ACTIVITÉS POUR LA SANTÉ HUMAINE", "offres": 835170},
+      {"name": "HÉBERGEMENT MÉDICO-SOCIAL ET SOCIAL ET ACTION SOCIALE SANS HÉBERGEMENT", "offres": 4310580},
+      {"name": "ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES", "offres": 541100},
+      {"name": "AUTRES ACTIVITÉS DE SERVICES", "offres": 1895480},
+      {"name": "ACTIVITÉS DES MÉNAGES EN TANT QU'EMPLOYEURS", "offres": 140450},
+      {"name": "ACTIVITÉS EXTRA-TERRITORIALES", "offres": 2610},
+      {"name": "ACTIVITÉ INCONNUE", "offres": 1070}
+    ]
+            },
+            "Tcontrat": [
+           
+                {"name": "offre non durable", "value": 21145140, "color": "#a5da0f"},
+                {"name": "Offre durable", "value": 22368570, "color": "#388E3C"}
+            ],
+            "offres": 22368570,
+            "secteur": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN",
+            "dipuniv": "Master Gestion des Services Administratifs"
+        }
+       
+    },
+    {
+        "input": {
+            "region": "Toute la France",
+            "contrat": "Offre non durable",
+            "diplome": "Tous types de qualification"
+        },
+        "result": {
+            "region": "Toute la France",
+            "Tdiplome": {
+                "title": "Type de diplome",
+                "color": "#388E3C",
+                "dataKey": "total",
+                "chartData": [
+      {"name": "Cadre", "total": 1607130},
+      {"name": "Agent de maîtrise, technicien", "total": 4888270},
+      {"name": "Employé qualifié", "total": 17230300},
+      {"name": "Employé non qualifié", "total": 10372880},
+      {"name": "Ouvrier qualifié", "total": 4796230},
+      {"name": "Ouvrier spécialisé, manœuvre", "total": 4620820}
+    ]
+            },
+            "Tsecteur": {
+                "title": "Secteurs d'activités",
+                "color": "#388E3C",
+                "dataKey": "offres",
+              "chartData": [
+      {"name": "AGRICULTURE, SYLVICULTURE ET PÊCHE", "offres": 1061120},
+      {"name": "INDUSTRIES EXTRACTIVES", "offres": 8050},
+      {"name": "FABRICATION DE DENRÉES ALIMENTAIRES, DE BOISSONS ET DE PRODUITS À BASE DE TABAC", "offres": 911460},
+      {"name": "FABRICATION DE TEXTILES, INDUSTRIES DE L'HABILLEMENT, INDUSTRIE DU CUIR ET DE LA CHAUSSURE", "offres": 125960},
+      {"name": "TRAVAIL DU BOIS, INDUSTRIES DU PAPIER ET IMPRIMERIE", "offres": 143130},
+      {"name": "COKÉFACTION ET RAFFINAGE", "offres": 1360},
+      {"name": "INDUSTRIE CHIMIQUE", "offres": 69700},
+      {"name": "INDUSTRIE PHARMACEUTIQUE", "offres": 22390},
+      {"name": "FABRICATION DE PRODUITS EN CAOUTCHOUC ET EN PLASTIQUE AINSI QUE D'AUTRES PRODUITS MINÉRAUX NON MÉTALLIQUES", "offres": 144490},
+      {"name": "MÉTALLURGIE ET FABRICATION DE PRODUITS MÉTALLIQUES À L'EXCEPTION DES MACHINES ET DES ÉQUIPEMENTS", "offres": 282320},
+      {"name": "FABRICATION DE PRODUITS INFORMATIQUES, ÉLECTRONIQUES ET OPTIQUES", "offres": 62910},
+      {"name": "FABRICATION D'ÉQUIPEMENTS ÉLECTRIQUES", "offres": 51060},
+      {"name": "FABRICATION DE MACHINES ET ÉQUIPEMENTS N.C.A.", "offres": 128340},
+      {"name": "FABRICATION DE MATÉRIELS DE TRANSPORT", "offres": 119610},
+      {"name": "AUTRES INDUSTRIES MANUFACTURIÈRES- RÉPARATION ET INSTALLATION DE MACHINES ET D'ÉQUIPEMENTS", "offres": 289010},
+      {"name": "PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ, DE VAPEUR ET D'AIR CONDITIONNÉ", "offres": 47530},
+      {"name": "PRODUCTION ET DISTRIBUTION D'EAU- ASSAINISSEMENT, GESTION DES DÉCHETS ET DÉPOLLUTION", "offres": 158240},
+      {"name": "CONSTRUCTION", "offres": 1555810},
+      {"name": "COMMERCE- RÉPARATION D'AUTOMOBILES ET DE MOTOCYCLES", "offres": 4239890},
+      {"name": "TRANSPORTS ET ENTREPOSAGE", "offres": 1101510},
+      {"name": "HÉBERGEMENT ET RESTAURATION", "offres": 3678420},
+      {"name": "EDITION, AUDIOVISUEL ET DIFFUSION", "offres": 396910},
+      {"name": "TÉLÉCOMMUNICATIONS", "offres": 54030},
+      {"name": "ACTIVITÉS INFORMATIQUES ET SERVICES D'INFORMATION", "offres": 553410},
+      {"name": "ACTIVITÉS FINANCIÈRES ET D'ASSURANCE", "offres": 620510},
+      {"name": "ACTIVITÉS IMMOBILIÈRES", "offres": 374760},
+      {"name": "ACTIVITÉS JURIDIQUES, COMPTABLES, DE GESTION, D'ARCHITECTURE, D'INGÉNIERIE, DE CONTRÔLE ET D'ANALYSES TECHNIQUES", "offres": 2668540},
+      {"name": "RECHERCHE-DÉVELOPPEMENT SCIENTIFIQUE", "offres": 50650},
+      {"name": "AUTRES ACTIVITÉS SPÉCIALISÉES, SCIENTIFIQUES ET TECHNIQUES", "offres": 758750},
+      {"name": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN", "offres": 12494980},
+      {"name": "ADMINISTRATION PUBLIQUE", "offres": 1614760},
+      {"name": "ENSEIGNEMENT", "offres": 1999560},
+      {"name": "ACTIVITÉS POUR LA SANTÉ HUMAINE", "offres": 835170},
+      {"name": "HÉBERGEMENT MÉDICO-SOCIAL ET SOCIAL ET ACTION SOCIALE SANS HÉBERGEMENT", "offres": 4310580},
+      {"name": "ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES", "offres": 541100},
+      {"name": "AUTRES ACTIVITÉS DE SERVICES", "offres": 1895480},
+      {"name": "ACTIVITÉS DES MÉNAGES EN TANT QU'EMPLOYEURS", "offres": 140450},
+      {"name": "ACTIVITÉS EXTRA-TERRITORIALES", "offres": 2610},
+      {"name": "ACTIVITÉ INCONNUE", "offres": 1070}
+    ]
+                
+            },
+            "Tcontrat": [
+           
+                {"name": "offre non durable", "value": 21145140, "color": "#a5da0f"},
+                {"name": "Offre durable", "value": 22368570, "color": "#388E3C"}
+            ],
+            "offres": 21145140,
+            "secteur": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN",
+            "dipuniv": "BAC Pro AGORA "
+        }
+       
+    },
+    {
+        "input": {
+            "region": "Toute la France",
+            "contrat": "Offre non durable",
+            "diplome": "Ouvrier spécialisé, manœuvre"
+        },
+        "result": {
+            "region": "Toute la France",
+            "Tdiplome": {
+                "title": "Type de diplome",
+                "color": "#388E3C",
+                "dataKey": "total",
+                 "chartData": [
+      {"name": "Cadre", "total": 1607130},
+      {"name": "Agent de maîtrise, technicien", "total": 4888270},
+      {"name": "Employé qualifié", "total": 17230300},
+      {"name": "Employé non qualifié", "total": 10372880},
+      {"name": "Ouvrier qualifié", "total": 4796230},
+      {"name": "Ouvrier spécialisé, manœuvre", "total": 4620820}
+    ]
+            },
+            "Tsecteur": {
+                "title": "Secteurs d'activités",
+                "color": "#388E3C",
+                "dataKey": "offres",
+            "chartData": [
+      {"name": "AGRICULTURE, SYLVICULTURE ET PÊCHE", "offres": 1061120},
+      {"name": "INDUSTRIES EXTRACTIVES", "offres": 8050},
+      {"name": "FABRICATION DE DENRÉES ALIMENTAIRES, DE BOISSONS ET DE PRODUITS À BASE DE TABAC", "offres": 911460},
+      {"name": "FABRICATION DE TEXTILES, INDUSTRIES DE L'HABILLEMENT, INDUSTRIE DU CUIR ET DE LA CHAUSSURE", "offres": 125960},
+      {"name": "TRAVAIL DU BOIS, INDUSTRIES DU PAPIER ET IMPRIMERIE", "offres": 143130},
+      {"name": "COKÉFACTION ET RAFFINAGE", "offres": 1360},
+      {"name": "INDUSTRIE CHIMIQUE", "offres": 69700},
+      {"name": "INDUSTRIE PHARMACEUTIQUE", "offres": 22390},
+      {"name": "FABRICATION DE PRODUITS EN CAOUTCHOUC ET EN PLASTIQUE AINSI QUE D'AUTRES PRODUITS MINÉRAUX NON MÉTALLIQUES", "offres": 144490},
+      {"name": "MÉTALLURGIE ET FABRICATION DE PRODUITS MÉTALLIQUES À L'EXCEPTION DES MACHINES ET DES ÉQUIPEMENTS", "offres": 282320},
+      {"name": "FABRICATION DE PRODUITS INFORMATIQUES, ÉLECTRONIQUES ET OPTIQUES", "offres": 62910},
+      {"name": "FABRICATION D'ÉQUIPEMENTS ÉLECTRIQUES", "offres": 51060},
+      {"name": "FABRICATION DE MACHINES ET ÉQUIPEMENTS N.C.A.", "offres": 128340},
+      {"name": "FABRICATION DE MATÉRIELS DE TRANSPORT", "offres": 119610},
+      {"name": "AUTRES INDUSTRIES MANUFACTURIÈRES- RÉPARATION ET INSTALLATION DE MACHINES ET D'ÉQUIPEMENTS", "offres": 289010},
+      {"name": "PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ, DE VAPEUR ET D'AIR CONDITIONNÉ", "offres": 47530},
+      {"name": "PRODUCTION ET DISTRIBUTION D'EAU- ASSAINISSEMENT, GESTION DES DÉCHETS ET DÉPOLLUTION", "offres": 158240},
+      {"name": "CONSTRUCTION", "offres": 1555810},
+      {"name": "COMMERCE- RÉPARATION D'AUTOMOBILES ET DE MOTOCYCLES", "offres": 4239890},
+      {"name": "TRANSPORTS ET ENTREPOSAGE", "offres": 1101510},
+      {"name": "HÉBERGEMENT ET RESTAURATION", "offres": 3678420},
+      {"name": "EDITION, AUDIOVISUEL ET DIFFUSION", "offres": 396910},
+      {"name": "TÉLÉCOMMUNICATIONS", "offres": 54030},
+      {"name": "ACTIVITÉS INFORMATIQUES ET SERVICES D'INFORMATION", "offres": 553410},
+      {"name": "ACTIVITÉS FINANCIÈRES ET D'ASSURANCE", "offres": 620510},
+      {"name": "ACTIVITÉS IMMOBILIÈRES", "offres": 374760},
+      {"name": "ACTIVITÉS JURIDIQUES, COMPTABLES, DE GESTION, D'ARCHITECTURE, D'INGÉNIERIE, DE CONTRÔLE ET D'ANALYSES TECHNIQUES", "offres": 2668540},
+      {"name": "RECHERCHE-DÉVELOPPEMENT SCIENTIFIQUE", "offres": 50650},
+      {"name": "AUTRES ACTIVITÉS SPÉCIALISÉES, SCIENTIFIQUES ET TECHNIQUES", "offres": 758750},
+      {"name": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN", "offres": 12494980},
+      {"name": "ADMINISTRATION PUBLIQUE", "offres": 1614760},
+      {"name": "ENSEIGNEMENT", "offres": 1999560},
+      {"name": "ACTIVITÉS POUR LA SANTÉ HUMAINE", "offres": 835170},
+      {"name": "HÉBERGEMENT MÉDICO-SOCIAL ET SOCIAL ET ACTION SOCIALE SANS HÉBERGEMENT", "offres": 4310580},
+      {"name": "ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES", "offres": 541100},
+      {"name": "AUTRES ACTIVITÉS DE SERVICES", "offres": 1895480},
+      {"name": "ACTIVITÉS DES MÉNAGES EN TANT QU'EMPLOYEURS", "offres": 140450},
+      {"name": "ACTIVITÉS EXTRA-TERRITORIALES", "offres": 2610},
+      {"name": "ACTIVITÉ INCONNUE", "offres": 1070}
+    ]
+                
+            },
+            "Tcontrat": [
+           
+                {"name": "offre non durable", "value": 21145140, "color": "#a5da0f"},
+                {"name": "Offre durable", "value": 22368570, "color": "#388E3C"}
+            ],
+            "offres": 21145140,
+            "secteur": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN",
+            "dipuniv": "BAC Pro AGORA "
+        }
+       
+    },
+    {
+        "input": {
+            "region": "Toute la France",
+            "contrat": "Offre non durable",
+            "diplome": "Ouvrier qualifié"
+        },
+        "result": {
+            "region": "Toute la France",
+            "Tdiplome": {
+                "title": "Type de diplome",
+                "color": "#388E3C",
+                "dataKey": "total",
+                "chartData": [
+      {"name": "Cadre", "total": 1607130},
+      {"name": "Agent de maîtrise, technicien", "total": 4888270},
+      {"name": "Employé qualifié", "total": 17230300},
+      {"name": "Employé non qualifié", "total": 10372880},
+      {"name": "Ouvrier qualifié", "total": 4796230},
+      {"name": "Ouvrier spécialisé, manœuvre", "total": 4620820}
+    ]
+            },
+            "Tsecteur": {
+                "title": "Secteurs d'activités",
+                "color": "#388E3C",
+                "dataKey": "offres",
+            "chartData": [
+      {"name": "AGRICULTURE, SYLVICULTURE ET PÊCHE", "offres": 1061120},
+      {"name": "INDUSTRIES EXTRACTIVES", "offres": 8050},
+      {"name": "FABRICATION DE DENRÉES ALIMENTAIRES, DE BOISSONS ET DE PRODUITS À BASE DE TABAC", "offres": 911460},
+      {"name": "FABRICATION DE TEXTILES, INDUSTRIES DE L'HABILLEMENT, INDUSTRIE DU CUIR ET DE LA CHAUSSURE", "offres": 125960},
+      {"name": "TRAVAIL DU BOIS, INDUSTRIES DU PAPIER ET IMPRIMERIE", "offres": 143130},
+      {"name": "COKÉFACTION ET RAFFINAGE", "offres": 1360},
+      {"name": "INDUSTRIE CHIMIQUE", "offres": 69700},
+      {"name": "INDUSTRIE PHARMACEUTIQUE", "offres": 22390},
+      {"name": "FABRICATION DE PRODUITS EN CAOUTCHOUC ET EN PLASTIQUE AINSI QUE D'AUTRES PRODUITS MINÉRAUX NON MÉTALLIQUES", "offres": 144490},
+      {"name": "MÉTALLURGIE ET FABRICATION DE PRODUITS MÉTALLIQUES À L'EXCEPTION DES MACHINES ET DES ÉQUIPEMENTS", "offres": 282320},
+      {"name": "FABRICATION DE PRODUITS INFORMATIQUES, ÉLECTRONIQUES ET OPTIQUES", "offres": 62910},
+      {"name": "FABRICATION D'ÉQUIPEMENTS ÉLECTRIQUES", "offres": 51060},
+      {"name": "FABRICATION DE MACHINES ET ÉQUIPEMENTS N.C.A.", "offres": 128340},
+      {"name": "FABRICATION DE MATÉRIELS DE TRANSPORT", "offres": 119610},
+      {"name": "AUTRES INDUSTRIES MANUFACTURIÈRES- RÉPARATION ET INSTALLATION DE MACHINES ET D'ÉQUIPEMENTS", "offres": 289010},
+      {"name": "PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ, DE VAPEUR ET D'AIR CONDITIONNÉ", "offres": 47530},
+      {"name": "PRODUCTION ET DISTRIBUTION D'EAU- ASSAINISSEMENT, GESTION DES DÉCHETS ET DÉPOLLUTION", "offres": 158240},
+      {"name": "CONSTRUCTION", "offres": 1555810},
+      {"name": "COMMERCE- RÉPARATION D'AUTOMOBILES ET DE MOTOCYCLES", "offres": 4239890},
+      {"name": "TRANSPORTS ET ENTREPOSAGE", "offres": 1101510},
+      {"name": "HÉBERGEMENT ET RESTAURATION", "offres": 3678420},
+      {"name": "EDITION, AUDIOVISUEL ET DIFFUSION", "offres": 396910},
+      {"name": "TÉLÉCOMMUNICATIONS", "offres": 54030},
+      {"name": "ACTIVITÉS INFORMATIQUES ET SERVICES D'INFORMATION", "offres": 553410},
+      {"name": "ACTIVITÉS FINANCIÈRES ET D'ASSURANCE", "offres": 620510},
+      {"name": "ACTIVITÉS IMMOBILIÈRES", "offres": 374760},
+      {"name": "ACTIVITÉS JURIDIQUES, COMPTABLES, DE GESTION, D'ARCHITECTURE, D'INGÉNIERIE, DE CONTRÔLE ET D'ANALYSES TECHNIQUES", "offres": 2668540},
+      {"name": "RECHERCHE-DÉVELOPPEMENT SCIENTIFIQUE", "offres": 50650},
+      {"name": "AUTRES ACTIVITÉS SPÉCIALISÉES, SCIENTIFIQUES ET TECHNIQUES", "offres": 758750},
+      {"name": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN", "offres": 12494980},
+      {"name": "ADMINISTRATION PUBLIQUE", "offres": 1614760},
+      {"name": "ENSEIGNEMENT", "offres": 1999560},
+      {"name": "ACTIVITÉS POUR LA SANTÉ HUMAINE", "offres": 835170},
+      {"name": "HÉBERGEMENT MÉDICO-SOCIAL ET SOCIAL ET ACTION SOCIALE SANS HÉBERGEMENT", "offres": 4310580},
+      {"name": "ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES", "offres": 541100},
+      {"name": "AUTRES ACTIVITÉS DE SERVICES", "offres": 1895480},
+      {"name": "ACTIVITÉS DES MÉNAGES EN TANT QU'EMPLOYEURS", "offres": 140450},
+      {"name": "ACTIVITÉS EXTRA-TERRITORIALES", "offres": 2610},
+      {"name": "ACTIVITÉ INCONNUE", "offres": 1070}
+    ]
+                
+            },
+            "Tcontrat": [
+           
+                {"name": "offre non durable", "value": 21145140, "color": "#a5da0f"},
+                {"name": "Offre durable", "value": 22368570, "color": "#388E3C"}
+            ],
+            "offres": 21145140,
+            "secteur": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN",
+            "dipuniv": "BAC Pro AGORA "
+        }
+       
+    },
+    {
+        "input": {
+            "region": "Toute la France",
+            "contrat": "Offre non durable",
+            "diplome": "Employé non qualifié"
+        },
+        "result": {
+            "region": "Toute la France",
+            "Tdiplome": {
+                "title": "Type de diplome",
+                "color": "#388E3C",
+                "dataKey": "total",
+                "chartData": [
+      {"name": "Cadre", "total": 1607130},
+      {"name": "Agent de maîtrise, technicien", "total": 4888270},
+      {"name": "Employé qualifié", "total": 17230300},
+      {"name": "Employé non qualifié", "total": 10372880},
+      {"name": "Ouvrier qualifié", "total": 4796230},
+      {"name": "Ouvrier spécialisé, manœuvre", "total": 4620820}
+    ]
+            },
+            "Tsecteur": {
+                "title": "Secteurs d'activités",
+                "color": "#388E3C",
+                "dataKey": "offres",
+           "chartData": [
+      {"name": "AGRICULTURE, SYLVICULTURE ET PÊCHE", "offres": 1061120},
+      {"name": "INDUSTRIES EXTRACTIVES", "offres": 8050},
+      {"name": "FABRICATION DE DENRÉES ALIMENTAIRES, DE BOISSONS ET DE PRODUITS À BASE DE TABAC", "offres": 911460},
+      {"name": "FABRICATION DE TEXTILES, INDUSTRIES DE L'HABILLEMENT, INDUSTRIE DU CUIR ET DE LA CHAUSSURE", "offres": 125960},
+      {"name": "TRAVAIL DU BOIS, INDUSTRIES DU PAPIER ET IMPRIMERIE", "offres": 143130},
+      {"name": "COKÉFACTION ET RAFFINAGE", "offres": 1360},
+      {"name": "INDUSTRIE CHIMIQUE", "offres": 69700},
+      {"name": "INDUSTRIE PHARMACEUTIQUE", "offres": 22390},
+      {"name": "FABRICATION DE PRODUITS EN CAOUTCHOUC ET EN PLASTIQUE AINSI QUE D'AUTRES PRODUITS MINÉRAUX NON MÉTALLIQUES", "offres": 144490},
+      {"name": "MÉTALLURGIE ET FABRICATION DE PRODUITS MÉTALLIQUES À L'EXCEPTION DES MACHINES ET DES ÉQUIPEMENTS", "offres": 282320},
+      {"name": "FABRICATION DE PRODUITS INFORMATIQUES, ÉLECTRONIQUES ET OPTIQUES", "offres": 62910},
+      {"name": "FABRICATION D'ÉQUIPEMENTS ÉLECTRIQUES", "offres": 51060},
+      {"name": "FABRICATION DE MACHINES ET ÉQUIPEMENTS N.C.A.", "offres": 128340},
+      {"name": "FABRICATION DE MATÉRIELS DE TRANSPORT", "offres": 119610},
+      {"name": "AUTRES INDUSTRIES MANUFACTURIÈRES- RÉPARATION ET INSTALLATION DE MACHINES ET D'ÉQUIPEMENTS", "offres": 289010},
+      {"name": "PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ, DE VAPEUR ET D'AIR CONDITIONNÉ", "offres": 47530},
+      {"name": "PRODUCTION ET DISTRIBUTION D'EAU- ASSAINISSEMENT, GESTION DES DÉCHETS ET DÉPOLLUTION", "offres": 158240},
+      {"name": "CONSTRUCTION", "offres": 1555810},
+      {"name": "COMMERCE- RÉPARATION D'AUTOMOBILES ET DE MOTOCYCLES", "offres": 4239890},
+      {"name": "TRANSPORTS ET ENTREPOSAGE", "offres": 1101510},
+      {"name": "HÉBERGEMENT ET RESTAURATION", "offres": 3678420},
+      {"name": "EDITION, AUDIOVISUEL ET DIFFUSION", "offres": 396910},
+      {"name": "TÉLÉCOMMUNICATIONS", "offres": 54030},
+      {"name": "ACTIVITÉS INFORMATIQUES ET SERVICES D'INFORMATION", "offres": 553410},
+      {"name": "ACTIVITÉS FINANCIÈRES ET D'ASSURANCE", "offres": 620510},
+      {"name": "ACTIVITÉS IMMOBILIÈRES", "offres": 374760},
+      {"name": "ACTIVITÉS JURIDIQUES, COMPTABLES, DE GESTION, D'ARCHITECTURE, D'INGÉNIERIE, DE CONTRÔLE ET D'ANALYSES TECHNIQUES", "offres": 2668540},
+      {"name": "RECHERCHE-DÉVELOPPEMENT SCIENTIFIQUE", "offres": 50650},
+      {"name": "AUTRES ACTIVITÉS SPÉCIALISÉES, SCIENTIFIQUES ET TECHNIQUES", "offres": 758750},
+      {"name": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN", "offres": 12494980},
+      {"name": "ADMINISTRATION PUBLIQUE", "offres": 1614760},
+      {"name": "ENSEIGNEMENT", "offres": 1999560},
+      {"name": "ACTIVITÉS POUR LA SANTÉ HUMAINE", "offres": 835170},
+      {"name": "HÉBERGEMENT MÉDICO-SOCIAL ET SOCIAL ET ACTION SOCIALE SANS HÉBERGEMENT", "offres": 4310580},
+      {"name": "ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES", "offres": 541100},
+      {"name": "AUTRES ACTIVITÉS DE SERVICES", "offres": 1895480},
+      {"name": "ACTIVITÉS DES MÉNAGES EN TANT QU'EMPLOYEURS", "offres": 140450},
+      {"name": "ACTIVITÉS EXTRA-TERRITORIALES", "offres": 2610},
+      {"name": "ACTIVITÉ INCONNUE", "offres": 1070}
+    ]
+                
+            },
+            "Tcontrat": [
+           
+                {"name": "offre non durable", "value": 21145140, "color": "#a5da0f"},
+                {"name": "Offre durable", "value": 22368570, "color": "#388E3C"}
+            ],
+            "offres": 21145140,
+            "secteur": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN",
+            "dipuniv": "BAC Pro AGORA "
+        }
+       
+    },
+    {
+        "input": {
+            "region": "Toute la France",
+            "contrat": "Offre non durable",
+            "diplome": "Employé non qualifié"
+        },
+        "result": {
+            "region": "Toute la France",
+            "Tdiplome": {
+                "title": "Type de diplome",
+                "color": "#388E3C",
+                "dataKey": "total",
+                "chartData": [
+      {"name": "Cadre", "total": 1607130},
+      {"name": "Agent de maîtrise, technicien", "total": 4888270},
+      {"name": "Employé qualifié", "total": 17230300},
+      {"name": "Employé non qualifié", "total": 10372880},
+      {"name": "Ouvrier qualifié", "total": 4796230},
+      {"name": "Ouvrier spécialisé, manœuvre", "total": 4620820}
+    ]
+            },
+            "Tsecteur": {
+                "title": "Secteurs d'activités",
+                "color": "#388E3C",
+                "dataKey": "offres",
+               "chartData": [
+      {"name": "AGRICULTURE, SYLVICULTURE ET PÊCHE", "offres": 1061120},
+      {"name": "INDUSTRIES EXTRACTIVES", "offres": 8050},
+      {"name": "FABRICATION DE DENRÉES ALIMENTAIRES, DE BOISSONS ET DE PRODUITS À BASE DE TABAC", "offres": 911460},
+      {"name": "FABRICATION DE TEXTILES, INDUSTRIES DE L'HABILLEMENT, INDUSTRIE DU CUIR ET DE LA CHAUSSURE", "offres": 125960},
+      {"name": "TRAVAIL DU BOIS, INDUSTRIES DU PAPIER ET IMPRIMERIE", "offres": 143130},
+      {"name": "COKÉFACTION ET RAFFINAGE", "offres": 1360},
+      {"name": "INDUSTRIE CHIMIQUE", "offres": 69700},
+      {"name": "INDUSTRIE PHARMACEUTIQUE", "offres": 22390},
+      {"name": "FABRICATION DE PRODUITS EN CAOUTCHOUC ET EN PLASTIQUE AINSI QUE D'AUTRES PRODUITS MINÉRAUX NON MÉTALLIQUES", "offres": 144490},
+      {"name": "MÉTALLURGIE ET FABRICATION DE PRODUITS MÉTALLIQUES À L'EXCEPTION DES MACHINES ET DES ÉQUIPEMENTS", "offres": 282320},
+      {"name": "FABRICATION DE PRODUITS INFORMATIQUES, ÉLECTRONIQUES ET OPTIQUES", "offres": 62910},
+      {"name": "FABRICATION D'ÉQUIPEMENTS ÉLECTRIQUES", "offres": 51060},
+      {"name": "FABRICATION DE MACHINES ET ÉQUIPEMENTS N.C.A.", "offres": 128340},
+      {"name": "FABRICATION DE MATÉRIELS DE TRANSPORT", "offres": 119610},
+      {"name": "AUTRES INDUSTRIES MANUFACTURIÈRES- RÉPARATION ET INSTALLATION DE MACHINES ET D'ÉQUIPEMENTS", "offres": 289010},
+      {"name": "PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ, DE VAPEUR ET D'AIR CONDITIONNÉ", "offres": 47530},
+      {"name": "PRODUCTION ET DISTRIBUTION D'EAU- ASSAINISSEMENT, GESTION DES DÉCHETS ET DÉPOLLUTION", "offres": 158240},
+      {"name": "CONSTRUCTION", "offres": 1555810},
+      {"name": "COMMERCE- RÉPARATION D'AUTOMOBILES ET DE MOTOCYCLES", "offres": 4239890},
+      {"name": "TRANSPORTS ET ENTREPOSAGE", "offres": 1101510},
+      {"name": "HÉBERGEMENT ET RESTAURATION", "offres": 3678420},
+      {"name": "EDITION, AUDIOVISUEL ET DIFFUSION", "offres": 396910},
+      {"name": "TÉLÉCOMMUNICATIONS", "offres": 54030},
+      {"name": "ACTIVITÉS INFORMATIQUES ET SERVICES D'INFORMATION", "offres": 553410},
+      {"name": "ACTIVITÉS FINANCIÈRES ET D'ASSURANCE", "offres": 620510},
+      {"name": "ACTIVITÉS IMMOBILIÈRES", "offres": 374760},
+      {"name": "ACTIVITÉS JURIDIQUES, COMPTABLES, DE GESTION, D'ARCHITECTURE, D'INGÉNIERIE, DE CONTRÔLE ET D'ANALYSES TECHNIQUES", "offres": 2668540},
+      {"name": "RECHERCHE-DÉVELOPPEMENT SCIENTIFIQUE", "offres": 50650},
+      {"name": "AUTRES ACTIVITÉS SPÉCIALISÉES, SCIENTIFIQUES ET TECHNIQUES", "offres": 758750},
+      {"name": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN", "offres": 12494980},
+      {"name": "ADMINISTRATION PUBLIQUE", "offres": 1614760},
+      {"name": "ENSEIGNEMENT", "offres": 1999560},
+      {"name": "ACTIVITÉS POUR LA SANTÉ HUMAINE", "offres": 835170},
+      {"name": "HÉBERGEMENT MÉDICO-SOCIAL ET SOCIAL ET ACTION SOCIALE SANS HÉBERGEMENT", "offres": 4310580},
+      {"name": "ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES", "offres": 541100},
+      {"name": "AUTRES ACTIVITÉS DE SERVICES", "offres": 1895480},
+      {"name": "ACTIVITÉS DES MÉNAGES EN TANT QU'EMPLOYEURS", "offres": 140450},
+      {"name": "ACTIVITÉS EXTRA-TERRITORIALES", "offres": 2610},
+      {"name": "ACTIVITÉ INCONNUE", "offres": 1070}
+    ]
+                
+            },
+            "Tcontrat": [
+           
+                {"name": "offre non durable", "value": 21145140, "color": "#a5da0f"},
+                {"name": "Offre durable", "value": 22368570, "color": "#388E3C"}
+            ],
+            "offres": 21145140,
+            "secteur": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN",
+            "dipuniv": "BAC Pro AGORA "
+        }
+       
+    },
+    {
+        "input": {
+            "region": "Toute la France",
+            "contrat": "Offre non durable",
+            "diplome": "Agent de maîtrise, technicien"
+        },
+        "result": {
+            "region": "Toute la France",
+            "Tdiplome": {
+                "title": "Type de diplome",
+                "color": "#388E3C",
+                "dataKey": "total",
+                "chartData": [
+      {"name": "Cadre", "total": 1607130},
+      {"name": "Agent de maîtrise, technicien", "total": 4888270},
+      {"name": "Employé qualifié", "total": 17230300},
+      {"name": "Employé non qualifié", "total": 10372880},
+      {"name": "Ouvrier qualifié", "total": 4796230},
+      {"name": "Ouvrier spécialisé, manœuvre", "total": 4620820}
+    ]
+            },
+            "Tsecteur": {
+                "title": "Secteurs d'activités",
+                "color": "#388E3C",
+                "dataKey": "offres",
+             "chartData": [
+      {"name": "AGRICULTURE, SYLVICULTURE ET PÊCHE", "offres": 1061120},
+      {"name": "INDUSTRIES EXTRACTIVES", "offres": 8050},
+      {"name": "FABRICATION DE DENRÉES ALIMENTAIRES, DE BOISSONS ET DE PRODUITS À BASE DE TABAC", "offres": 911460},
+      {"name": "FABRICATION DE TEXTILES, INDUSTRIES DE L'HABILLEMENT, INDUSTRIE DU CUIR ET DE LA CHAUSSURE", "offres": 125960},
+      {"name": "TRAVAIL DU BOIS, INDUSTRIES DU PAPIER ET IMPRIMERIE", "offres": 143130},
+      {"name": "COKÉFACTION ET RAFFINAGE", "offres": 1360},
+      {"name": "INDUSTRIE CHIMIQUE", "offres": 69700},
+      {"name": "INDUSTRIE PHARMACEUTIQUE", "offres": 22390},
+      {"name": "FABRICATION DE PRODUITS EN CAOUTCHOUC ET EN PLASTIQUE AINSI QUE D'AUTRES PRODUITS MINÉRAUX NON MÉTALLIQUES", "offres": 144490},
+      {"name": "MÉTALLURGIE ET FABRICATION DE PRODUITS MÉTALLIQUES À L'EXCEPTION DES MACHINES ET DES ÉQUIPEMENTS", "offres": 282320},
+      {"name": "FABRICATION DE PRODUITS INFORMATIQUES, ÉLECTRONIQUES ET OPTIQUES", "offres": 62910},
+      {"name": "FABRICATION D'ÉQUIPEMENTS ÉLECTRIQUES", "offres": 51060},
+      {"name": "FABRICATION DE MACHINES ET ÉQUIPEMENTS N.C.A.", "offres": 128340},
+      {"name": "FABRICATION DE MATÉRIELS DE TRANSPORT", "offres": 119610},
+      {"name": "AUTRES INDUSTRIES MANUFACTURIÈRES- RÉPARATION ET INSTALLATION DE MACHINES ET D'ÉQUIPEMENTS", "offres": 289010},
+      {"name": "PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ, DE VAPEUR ET D'AIR CONDITIONNÉ", "offres": 47530},
+      {"name": "PRODUCTION ET DISTRIBUTION D'EAU- ASSAINISSEMENT, GESTION DES DÉCHETS ET DÉPOLLUTION", "offres": 158240},
+      {"name": "CONSTRUCTION", "offres": 1555810},
+      {"name": "COMMERCE- RÉPARATION D'AUTOMOBILES ET DE MOTOCYCLES", "offres": 4239890},
+      {"name": "TRANSPORTS ET ENTREPOSAGE", "offres": 1101510},
+      {"name": "HÉBERGEMENT ET RESTAURATION", "offres": 3678420},
+      {"name": "EDITION, AUDIOVISUEL ET DIFFUSION", "offres": 396910},
+      {"name": "TÉLÉCOMMUNICATIONS", "offres": 54030},
+      {"name": "ACTIVITÉS INFORMATIQUES ET SERVICES D'INFORMATION", "offres": 553410},
+      {"name": "ACTIVITÉS FINANCIÈRES ET D'ASSURANCE", "offres": 620510},
+      {"name": "ACTIVITÉS IMMOBILIÈRES", "offres": 374760},
+      {"name": "ACTIVITÉS JURIDIQUES, COMPTABLES, DE GESTION, D'ARCHITECTURE, D'INGÉNIERIE, DE CONTRÔLE ET D'ANALYSES TECHNIQUES", "offres": 2668540},
+      {"name": "RECHERCHE-DÉVELOPPEMENT SCIENTIFIQUE", "offres": 50650},
+      {"name": "AUTRES ACTIVITÉS SPÉCIALISÉES, SCIENTIFIQUES ET TECHNIQUES", "offres": 758750},
+      {"name": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN", "offres": 12494980},
+      {"name": "ADMINISTRATION PUBLIQUE", "offres": 1614760},
+      {"name": "ENSEIGNEMENT", "offres": 1999560},
+      {"name": "ACTIVITÉS POUR LA SANTÉ HUMAINE", "offres": 835170},
+      {"name": "HÉBERGEMENT MÉDICO-SOCIAL ET SOCIAL ET ACTION SOCIALE SANS HÉBERGEMENT", "offres": 4310580},
+      {"name": "ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES", "offres": 541100},
+      {"name": "AUTRES ACTIVITÉS DE SERVICES", "offres": 1895480},
+      {"name": "ACTIVITÉS DES MÉNAGES EN TANT QU'EMPLOYEURS", "offres": 140450},
+      {"name": "ACTIVITÉS EXTRA-TERRITORIALES", "offres": 2610},
+      {"name": "ACTIVITÉ INCONNUE", "offres": 1070}
+    ]
+                
+            },
+            "Tcontrat": [
+           
+                {"name": "offre non durable", "value": 21145140, "color": "#a5da0f"},
+                {"name": "Offre durable", "value": 22368570, "color": "#388E3C"}
+            ],
+            "offres": 21145140,
+            "secteur": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN",
+            "dipuniv": "BTS gestion de la PME"
+        }
+       
+    },
+    {
+        "input": {
+            "region": "Toute la France",
+            "contrat": "Offre non durable",
+            "diplome": "Cadre"
+        },
+        "result": {
+            "region": "Toute la France",
+            "Tdiplome": {
+                "title": "Type de diplome",
+                "color": "#388E3C",
+                "dataKey": "total",
+                "chartData": [
+      {"name": "Cadre", "total": 1607130},
+      {"name": "Agent de maîtrise, technicien", "total": 4888270},
+      {"name": "Employé qualifié", "total": 17230300},
+      {"name": "Employé non qualifié", "total": 10372880},
+      {"name": "Ouvrier qualifié", "total": 4796230},
+      {"name": "Ouvrier spécialisé, manœuvre", "total": 4620820}
+    ]
+            },
+            "Tsecteur": {
+                "title": "Secteurs d'activités",
+                "color": "#388E3C",
+                "dataKey": "offres",
+            "chartData": [
+      {"name": "AGRICULTURE, SYLVICULTURE ET PÊCHE", "offres": 1061120},
+      {"name": "INDUSTRIES EXTRACTIVES", "offres": 8050},
+      {"name": "FABRICATION DE DENRÉES ALIMENTAIRES, DE BOISSONS ET DE PRODUITS À BASE DE TABAC", "offres": 911460},
+      {"name": "FABRICATION DE TEXTILES, INDUSTRIES DE L'HABILLEMENT, INDUSTRIE DU CUIR ET DE LA CHAUSSURE", "offres": 125960},
+      {"name": "TRAVAIL DU BOIS, INDUSTRIES DU PAPIER ET IMPRIMERIE", "offres": 143130},
+      {"name": "COKÉFACTION ET RAFFINAGE", "offres": 1360},
+      {"name": "INDUSTRIE CHIMIQUE", "offres": 69700},
+      {"name": "INDUSTRIE PHARMACEUTIQUE", "offres": 22390},
+      {"name": "FABRICATION DE PRODUITS EN CAOUTCHOUC ET EN PLASTIQUE AINSI QUE D'AUTRES PRODUITS MINÉRAUX NON MÉTALLIQUES", "offres": 144490},
+      {"name": "MÉTALLURGIE ET FABRICATION DE PRODUITS MÉTALLIQUES À L'EXCEPTION DES MACHINES ET DES ÉQUIPEMENTS", "offres": 282320},
+      {"name": "FABRICATION DE PRODUITS INFORMATIQUES, ÉLECTRONIQUES ET OPTIQUES", "offres": 62910},
+      {"name": "FABRICATION D'ÉQUIPEMENTS ÉLECTRIQUES", "offres": 51060},
+      {"name": "FABRICATION DE MACHINES ET ÉQUIPEMENTS N.C.A.", "offres": 128340},
+      {"name": "FABRICATION DE MATÉRIELS DE TRANSPORT", "offres": 119610},
+      {"name": "AUTRES INDUSTRIES MANUFACTURIÈRES- RÉPARATION ET INSTALLATION DE MACHINES ET D'ÉQUIPEMENTS", "offres": 289010},
+      {"name": "PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ, DE VAPEUR ET D'AIR CONDITIONNÉ", "offres": 47530},
+      {"name": "PRODUCTION ET DISTRIBUTION D'EAU- ASSAINISSEMENT, GESTION DES DÉCHETS ET DÉPOLLUTION", "offres": 158240},
+      {"name": "CONSTRUCTION", "offres": 1555810},
+      {"name": "COMMERCE- RÉPARATION D'AUTOMOBILES ET DE MOTOCYCLES", "offres": 4239890},
+      {"name": "TRANSPORTS ET ENTREPOSAGE", "offres": 1101510},
+      {"name": "HÉBERGEMENT ET RESTAURATION", "offres": 3678420},
+      {"name": "EDITION, AUDIOVISUEL ET DIFFUSION", "offres": 396910},
+      {"name": "TÉLÉCOMMUNICATIONS", "offres": 54030},
+      {"name": "ACTIVITÉS INFORMATIQUES ET SERVICES D'INFORMATION", "offres": 553410},
+      {"name": "ACTIVITÉS FINANCIÈRES ET D'ASSURANCE", "offres": 620510},
+      {"name": "ACTIVITÉS IMMOBILIÈRES", "offres": 374760},
+      {"name": "ACTIVITÉS JURIDIQUES, COMPTABLES, DE GESTION, D'ARCHITECTURE, D'INGÉNIERIE, DE CONTRÔLE ET D'ANALYSES TECHNIQUES", "offres": 2668540},
+      {"name": "RECHERCHE-DÉVELOPPEMENT SCIENTIFIQUE", "offres": 50650},
+      {"name": "AUTRES ACTIVITÉS SPÉCIALISÉES, SCIENTIFIQUES ET TECHNIQUES", "offres": 758750},
+      {"name": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN", "offres": 12494980},
+      {"name": "ADMINISTRATION PUBLIQUE", "offres": 1614760},
+      {"name": "ENSEIGNEMENT", "offres": 1999560},
+      {"name": "ACTIVITÉS POUR LA SANTÉ HUMAINE", "offres": 835170},
+      {"name": "HÉBERGEMENT MÉDICO-SOCIAL ET SOCIAL ET ACTION SOCIALE SANS HÉBERGEMENT", "offres": 4310580},
+      {"name": "ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES", "offres": 541100},
+      {"name": "AUTRES ACTIVITÉS DE SERVICES", "offres": 1895480},
+      {"name": "ACTIVITÉS DES MÉNAGES EN TANT QU'EMPLOYEURS", "offres": 140450},
+      {"name": "ACTIVITÉS EXTRA-TERRITORIALES", "offres": 2610},
+      {"name": "ACTIVITÉ INCONNUE", "offres": 1070}
+    ]
+                
+            },
+            "Tcontrat": [
+           
+                {"name": "offre non durable", "value": 21145140, "color": "#a5da0f"},
+                {"name": "Offre durable", "value": 22368570, "color": "#388E3C"}
+            ],
+            "offres": 21145140,
+            "secteur": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN",
+            "dipuniv": "Master Gestion des Services Administratifs"
+        }
+       
+    },  {
         "input": {
             "region": "Ile-de-France",
             "contrat": "Tous types de contrats",

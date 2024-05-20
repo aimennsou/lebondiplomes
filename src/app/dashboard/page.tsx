@@ -231,7 +231,7 @@ const Page = () => {
       ],
       offres : 43515630,
       secteur : "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN",
-      dipuniv: "ESE"
+      dipuniv: "Bac Pro AGORA"
 
 
   }

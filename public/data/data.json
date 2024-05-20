@@ -1,12 +1,12 @@
 [
-   {
+  {
         "input": {
             "region": "Toute la France",
             "contrat": "Tous types de contrats",
             "diplome": "Tous types de qualification"
         },
         "result": {
-       
+            "region": "Toute la France",
             "Tdiplome": {
                 "title": "Type de diplome",
                 "color": "#388E3C",
@@ -84,7 +84,7 @@
             "diplome": "Ouvrier spécialisé, manœuvre"
         },
         "result": {
-          
+            "region": "Toute la France",
             "Tdiplome": {
                 "title": "Type de diplome",
                 "color": "#388E3C",
@@ -162,7 +162,7 @@
             "diplome": "Ouvrier qualifié"
         },
         "result": {
-           
+            "region": "Toute la France",
             "Tdiplome": {
                 "title": "Type de diplome",
                 "color": "#388E3C",
@@ -240,7 +240,7 @@
             "diplome": "Employé non qualifié"
         },
         "result": {
-            
+            "region": "Toute la France",
             "Tdiplome": {
                 "title": "Type de diplome",
                 "color": "#388E3C",
@@ -318,7 +318,7 @@
             "diplome": "Employé qualifié"
         },
         "result": {
-           
+            "region": "Toute la France",
             "Tdiplome": {
                 "title": "Type de diplome",
                 "color": "#388E3C",
@@ -396,7 +396,7 @@
             "diplome": "Agent de maîtrise, technicien"
         },
         "result": {
-           
+            "region": "Toute la France",
             "Tdiplome": {
                 "title": "Type de diplome",
                 "color": "#388E3C",
@@ -474,7 +474,7 @@
             "diplome": "Cadre"
         },
         "result": {
-           
+            "region": "Toute la France",
             "Tdiplome": {
                 "title": "Type de diplome",
                 "color": "#388E3C",
@@ -553,7 +553,7 @@
             "diplome": "Tous types de qualification"
         },
         "result": {
-            
+            "region": "Toute la France",
             "Tdiplome": {
                 "title": "Type de diplome",
                 "color": "#388E3C",
@@ -631,7 +631,7 @@
             "diplome": "Ouvrier spécialisé, manœuvre"
         },
         "result": {
-            
+            "region": "Toute la France",
             "Tdiplome": {
                 "title": "Type de diplome",
                 "color": "#388E3C",
@@ -709,7 +709,7 @@
             "diplome": "Ouvrier qualifié"
         },
         "result": {
-          
+            "region": "Toute la France",
             "Tdiplome": {
                 "title": "Type de diplome",
                 "color": "#388E3C",
@@ -787,7 +787,7 @@
             "diplome": "Employé non qualifié"
         },
         "result": {
-           
+            "region": "Toute la France",
             "Tdiplome": {
                 "title": "Type de diplome",
                 "color": "#388E3C",
@@ -865,7 +865,7 @@
             "diplome": "Employé qualifié"
         },
         "result": {
-            
+            "region": "Toute la France",
             "Tdiplome": {
                 "title": "Type de diplome",
                 "color": "#388E3C",
@@ -943,7 +943,7 @@
             "diplome": "Agent de maîtrise, technicien"
         },
         "result": {
-         
+            "region": "Toute la France",
             "Tdiplome": {
                 "title": "Type de diplome",
                 "color": "#388E3C",
@@ -1020,7 +1020,7 @@
             "diplome": "Cadre"
         },
         "result": {
-            
+            "region": "Toute la France",
             "Tdiplome": {
                 "title": "Type de diplome",
                 "color": "#388E3C",
@@ -1098,7 +1098,7 @@
             "diplome": "Tous types de qualification"
         },
         "result": {
-            
+            "region": "Toute la France",
             "Tdiplome": {
                 "title": "Type de diplome",
                 "color": "#388E3C",
@@ -1177,7 +1177,7 @@
             "diplome": "Ouvrier spécialisé, manœuvre"
         },
         "result": {
-           
+            "region": "Toute la France",
             "Tdiplome": {
                 "title": "Type de diplome",
                 "color": "#388E3C",
@@ -1256,7 +1256,7 @@
             "diplome": "Ouvrier qualifié"
         },
         "result": {
-           
+            "region": "Toute la France",
             "Tdiplome": {
                 "title": "Type de diplome",
                 "color": "#388E3C",
@@ -1335,7 +1335,7 @@
             "diplome": "Employé non qualifié"
         },
         "result": {
-            
+            "region": "Toute la France",
             "Tdiplome": {
                 "title": "Type de diplome",
                 "color": "#388E3C",
@@ -1414,7 +1414,7 @@
             "diplome": "Employé non qualifié"
         },
         "result": {
-            
+            "region": "Toute la France",
             "Tdiplome": {
                 "title": "Type de diplome",
                 "color": "#388E3C",
@@ -1493,7 +1493,7 @@
             "diplome": "Agent de maîtrise, technicien"
         },
         "result": {
-           
+            "region": "Toute la France",
             "Tdiplome": {
                 "title": "Type de diplome",
                 "color": "#388E3C",
@@ -1572,7 +1572,7 @@
             "diplome": "Cadre"
         },
         "result": {
-          
+            "region": "Toute la France",
             "Tdiplome": {
                 "title": "Type de diplome",
                 "color": "#388E3C",

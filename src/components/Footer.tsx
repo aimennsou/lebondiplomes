@@ -8,7 +8,7 @@ const Footer = () => {
           <footer className='flex flex-row'>
 
               <p className="   mx-2 text-nowrap regular-14 w-full text-center py-8 text-gray-30">Made by 
-             <a className=" text-blue-800  text-lg" href="https://www.linkedin.com/in/aimen-bennacer/#/"> Aimen Bennacer</a>
+             <a className=" text-lg" > Aimen Bennacer</a>
               </p>
              
           </footer>

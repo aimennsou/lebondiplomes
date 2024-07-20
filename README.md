@@ -53,16 +53,7 @@ Live demo link : [lebondiplome](https://www.lebondiplome.com/)
 
 
 
-## Authors
-
-- [@aimen](https://github.com/aimenonly)
 
 
-## 🚀 About Me
-A Data Analyst based in Paris. with great passion for data and building and creating apps from scratch....
 
-
-## 🔗 Find me at
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimen-bennacer/)
 

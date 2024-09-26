@@ -25,11 +25,7 @@ const Navbar = () => {
      
               <ul className="flex  items-center gap-6">
                  
-                  <p>
-                  <Link href="https://github.com/aimennsou/lebondiplomes">
-                      <Button className="hover:border-green-700" variant="outline"> Voir le code source </Button>
-                      </Link>
-                  </p>
+                 
 
               </ul>
           </div>
